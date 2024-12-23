@@ -1,0 +1,2247 @@
+[
+  {
+    "shop_name": "TODO\u5f55\u97f3\u68da\u00b724h",
+    "address": "\u957f\u8679\u8def\u5fb7\u76c8\u56fd\u9645\u5e7f\u573a1\u680b1621",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/f4dc43106c382f76f31e2404371f5cf0312009.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5357\u4eac\u5c71\u897f\u8def\u5e97)",
+    "address": "\u4e2d\u5c71\u5317\u8def188\u53f7\u957f\u53d1\u8702\u5de2\u751f\u6d3b\u99862\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6b22\u4e50\u8feaKTV(\u5f18\u9633\u5e97)",
+    "address": "\u4e07\u5174\u8def\u8fc8\u768b\u6865\u521b\u4e1a\u56ed1-183\u53f7B\u533a\u4e09\u5c42KTV-2\u53f7\u5546\u94fa",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/ab5cfbd8039a07a76927d6f07046229f328672.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u7d2b\u4e91\u667a\u6167\u5e7f\u573a\u5e97)",
+    "address": "\u5361\u5b50\u95e8\u5927\u885719\u53f7\u7d2b\u4e91\u667a\u6167\u5e7f\u573a1\u53f7\u697c\u4e8c\u5c42",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u871c\u8702\u4fa0\u5f55\u97f3\u68da",
+    "address": "\u6d2a\u6b66\u8def\u8857\u9053\u6237\u90e8\u885729\u53f7\u529b\u8054\u5927\u53a6\u4e1c\u697c1906\u5ba4(\u6c49\u5ead\u5feb\u6377\u9152\u5e97\u697c\u4e0a)",
+    "cover_image_url": "https://p1.meituan.net/merchantpic/24f91040f852558ae3d6e9c37769aece424435.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9ea6\u82bdKTV(\u6c5f\u5b81\u5927\u5b66\u57ce\u5e97)",
+    "address": "\u5f18\u666f\u5927\u90533666\u53f7ING\u5e7f\u573a\u4e8c\u5c42210\uff08\u6d77\u5e95\u635e\u5bf9\u9762\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/9df237f60d8568a6d4cc8c59854181f71255143.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "EAR HOUSE\u8033\u7a9d\u5f55\u97f3\u68da",
+    "address": "\u4e2d\u5c71\u4e1c\u8def532-2\u53f7\u91d1\u8776\u4ea7\u4e1a\u56edH1\u680b106\u5ba4(\u5357\u4eac\u535a\u7269\u9662\u6b63\u5bf9\u9762)",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/a5c3b865a077c7cd40d27c42e395d44e958688.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "S\u00b7KING KTV(\u6c5f\u5b81\u4e07\u8fbe\u5e97)",
+    "address": "\u7af9\u5c71\u8def\u4e07\u8fbe\u5e7f\u573a3\u697c3333\u53f7\uff08\u8fd12\u53f7\u95e8\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/05083a21c331458fe378cf3c81666df642204.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5357\u4eac\u71d5\u5b50\u77f6\u82b1\u56ed\u57ce\u5e97)",
+    "address": "\u8fc8\u768b\u6865\u8857\u9053\u71d5\u57ce\u5927\u90531\u53f7\u62db\u5546\u82b1\u56ed\u57ce\u4e09\u697c319\u5546\u94fa",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5efa\u90ba\u7d2b\u91d11912\u7396\u60a6\u835f\u5e97)",
+    "address": "\u4e2d\u548c\u8def121\u53f7\u7d2b\u91d11912-\u7396\u60a6\u835f3F306\uff08\u5546\u573a\u6b63\u95e8\u5165\u53e3\u5f80\u91cc\u8d70\u76f4\u68af\u4e0a3\u697c\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u51e1\u95f4music\u97f3\u4e50\u7a7a\u95f4",
+    "address": "\u5c06\u519b\u5927\u9053\u739b\u65af\u5170\u5fb7\u9999\u6a59\u8857\u533a15-2\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/186a82b667bd6399106d0fc2faac8ac71592343.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u57ce\u5317\u4e07\u8c61\u6c47\u5e97)",
+    "address": "\u8fc8\u768b\u6865\u8857\u9053\u6816\u971e\u5927\u9053106\u53f7\u5357\u4eac\u57ce\u5317\u4e07\u8c61\u6c47B\u99866\u53f7\u95e82\u697c125B\u53f7\u661f\u805a\u4f1aKTV",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5357\u4eac\u6c5f\u5317\u5f18\u9633\u5e7f\u573a\u5e97)",
+    "address": "\u5927\u6865\u5317\u8def48\u53f7\u5f18\u9633\u5e7f\u573a\u8857\u533a\u672a\u6765\u4e16\u754c2\u697c\uff08\u5f18\u9633\u4e2d\u592e\u5927\u821e\u53f0\u597d\u5229\u6765\u86cb\u7cd5\u5e97\u65c1\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5357\u4eac\u6c5f\u5357\u8679\u60a6\u57ce\u5e97)",
+    "address": "\u5e94\u5929\u5927\u8857619\u53f7\u5357\u4eac\u8679\u60a6\u57ce2FE04/05",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5357\u4eac\u4ed9\u6797\u4e5d\u9704\u68a6\u5929\u5730\u5e97)",
+    "address": "\u4ed9\u6797\u8857\u9053\u5b66\u8861\u8def1\u53f73F01",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u6c5f\u5b81\u5927\u5b66\u57ce\u6587\u9f0e\u5e7f\u573a\u5e97)",
+    "address": "\u4e1c\u5c71\u8857\u9053\u9e4f\u5c71\u8def26\u53f77\u680b201\u5ba4(\u6c5f\u5b81\u9ad8\u65b0\u56ed)",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u540c\u66e6\u5047\u65e5\u767e\u8d27\u5e97)",
+    "address": "\u53cc\u9f99\u5927\u90531351\u53f7\u540c\u66e6\u5047\u65e5\u767e\u8d272\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5357\u4eac\u9f99\u6e56\u6cb3\u897f\u5929\u8857\u5e97)",
+    "address": "\u4e91\u9f99\u5c71\u8def89\u53f7\u9f99\u6e56\u5357\u4eac\u6cb3\u897f\u5929\u88572\u697c19\u53f7\u94fa\uff08\u4ece4\u53f7\u95e8\u8fdb,\u591c\u95f4\u6253\u8f66\u5b9a\u4f4d\u91d1\u9675\u5bb4\u5e9c\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5c27\u5316\u95e8\u5e97)",
+    "address": "\u91d1\u5c27\u8def22\u53f7\u91d1\u5730\u5e7f\u573a3\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u6258\u4e50\u5609\u8d8a\u57ce\u6c47\u5e97)",
+    "address": "\u5c06\u519b\u5927\u90539\u53f7109\u5e62\u8d8a\u57ce\u6c47\u4e09\u697c307\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6b22\u4e50\u6c47KTV(\u91d1\u8f6e\u53cc\u5b50\u661f\u5e97)",
+    "address": "\u53cc\u9f99\u5927\u90531101\u53f7\u91d1\u8f6e\u53cc\u5b50\u661f3\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/a780c89258bafcd1cd45c985a82fbac3304824.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5357\u4eac\u96e8\u82b1\u543e\u60a6\u5e97)",
+    "address": "\u65b0\u6797\u5927\u9053\u543e\u60a6\u5e7f\u573a3\u697cZ05",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u6c34\u6e38\u57ce\u5e97)",
+    "address": "\u5efa\u5eb7\u8def1\u53f7\u6c34\u6e38\u57ce3\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u9f13\u697c\u543e\u60a6\u5e7f\u573a\u5e97)",
+    "address": "\u6e56\u5317\u8def51\u53f7\u543e\u60a6\u5e7f\u573a2\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "Z9 Party K\u91cf\u8d29\u5f0fKTV",
+    "address": "\u77f3\u9f13\u8def\u5efa\u534e\u5927\u53a6\u5317\u95e82\u697c",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/2fa20c49bc1c73a65d92946f9fc7b3423010213.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u6c5f\u5317\u9f99\u6e56\u5929\u8857\u5e97)",
+    "address": "\u6c5f\u5317\u65b0\u533a\u6587\u666f\u8def99\u53f7\u9f99\u6e56\u6c5f\u5317\u5929\u88572F26\u300127\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u6c5f\u5317\u8679\u60a6\u57ce\u5e97)",
+    "address": "\u9f99\u534e\u8def1\u53f7\u6c5f\u5317\u8679\u60a6\u57ce3F-19-1",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u552f\u7231\u661f\u7a7aKTV(\u4ed9\u6797\u4e1c\u57ce\u6c47\u5e97)",
+    "address": "\u4ed9\u6797\u8857\u9053\u6587\u82d1\u8def8\u53f7\u4e1c\u57ce\u6c47A\u533a2\u697c\uff08\u5927\u4f17\u4e66\u5c40\u697c\u4e0a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/c892c6e5038d634921d2f708ec99e616220812.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u9f13\u697c\u73af\u5b87\u57ce\u5e97)",
+    "address": "\u6e05\u51c9\u95e8\u5927\u88571\u53f7\u73af\u5b87\u57ce\u4e09\u697cL316-L317",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5965\u4f53\u5e97)",
+    "address": "\u5965\u4f53\u5927\u8857177\u53f7\u73af\u5b87\u5e7f\u573aB\u5ea73F",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5efa\u90ba\u543e\u60a6\u5e7f\u573a\u5e97)",
+    "address": "\u6c5f\u4e1c\u5feb\u901f\u8def\u543e\u60a6\u5e7f\u573a\u5916\u88572F3F",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u8d29KTV(\u5efa\u90ba\u543e\u60a6\u5e7f\u573a\u5e97)",
+    "address": "\u6c49\u4e2d\u95e8\u5927\u8857299\u53f7\u543e\u60a6\u5e7f\u573a1\u53f7\u95e82\u697cZ18\u5546\u94fa",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/85fdeef8a77fc3cb636f29480a96d5db995901.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(ITC mall\u5e97)",
+    "address": "\u70ed\u6cb3\u8def2\u53f7ITcmall\u5546\u573aA\u5ea7L2\u5c42",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5357\u4eac\u96e8\u82b1\u4e16\u8302\u5e97)",
+    "address": "\u5b89\u5fb7\u95e8\u5927\u8857\u4e16\u8302\u5e7f\u573a52\u53f72\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u516d\u5408\u5929\u8857\u5e97)",
+    "address": "\u53e4\u68e0\u5927\u9053\u4e0e\u6865\u897f\u8def\u4ea4\u6c47\u5904\u9f99\u6e56\u5357\u4eac\u516d\u5408\u5929\u8857\u4e8c\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "WJ.Studio \u6211\u542c\u4f60\u8bf4\u5de5\u4f5c\u5ba4",
+    "address": "\u9f99\u87e0\u4e2d\u8def\u9e3f\u610f\u5730\u4ea7\u5927\u53a62\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/81c0bc06777131b5f614d5d0d439e4f01231123.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5357\u4eac1912\u5e97)",
+    "address": "\u957f\u6c5f\u8def288\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u65b0\u8857\u53e3\u91d1\u8f6e\u65b0\u5929\u5730\u5e97)",
+    "address": "\u6c49\u4e2d\u8def8\u53f7\u91d1\u8f6e\u65b0\u5929\u5730\u4e09\u697c\uff08\u91d1\u9e70\u5bf9\u9762\u5165\u53e3A\u533a\u4e09\u697c\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u90a3\u884c\u97f3\u4e50\u5de5\u4f5c\u5ba4",
+    "address": "\u5357\u82d1\u8857\u9053\u5e94\u5929\u5927\u8857837\u53f7\u5f18\u745e\u5e7f\u573a8\u680b1008\u5ba4(\u6e2f\u9645\u5bbe\u9986\u697c\u4e0a)",
+    "cover_image_url": "http://p1.meituan.net/joymerchant/4496231152885049319-3530888-1492569423088.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "802",
+    "address": "\u67f3\u6d32\u4e1c\u8def200\u53f7\u5a01\u5c3c\u65af\u6c34\u57ce\u4e8c\u8857\u533a32\u680b3\u5355\u5143206\u5ba4\uff08\u8fd1\u67f3\u6d32\u4e1c\u8def\u5730\u94c1\u7ad91\u53f7\u53e3\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/cea8c5b5b0967a280f98c8e8e2fd9d23560302.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u9f99\u6e56\u5357\u4eac\u9f99\u6e7e\u5929\u8857\u5e97)",
+    "address": "\u6f6d\u56ed\u897f\u8def199\u53f7\u9f99\u6e56\u9f99\u6e7e\u5929\u8857\u4e09\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u60a6\u8072\u6703KTV(CO\u00b7life\u7eda\u96c6\u5e97)",
+    "address": "\u5929\u5370\u5927\u9053745\u53f7COlife\u7eda\u96c61\u697c135\u53f7\u30012\u697c221\u3001222\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/c4db195e165af481a4ecaf13e82e0e20158975.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u94f6K\u6d3e\u5bf9KTV(\u6865\u5317\u5e97)",
+    "address": "\u6cf0\u5c71\u8857\u9053\u6ee8\u6c5f\u5927\u90531\u53f7\u660e\u53d1\u5916\u6ee9\u5e7f\u573a3\u697c\uff08\u519c\u4e1a\u94f6\u884c\u9694\u58c1\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/c26b94612b5632c05e543ae77346a3a724519.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u4e1c\u65b9\u798f\u6765\u5fb7\u5e97)",
+    "address": "\u4e2d\u5c71\u5357\u8def2\u53f7\u4e1c\u65b9\u798f\u6765\u5fb7\u5546\u573a3\u5c42F3-011",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u592b\u5b50\u5e99\u8302\u4e1a\u5929\u5730\u5e97)",
+    "address": "\u5efa\u5eb7\u8def2\u53f7\u5357\u4eac\u8302\u4e1a\u5929\u5730\u4e2d\u5fc32\u53f7\u95e81\u697c\u5916\u8857\uff08\u534e\u4e3a\u661f\u5df4\u514b\u65c1\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5357\u4eac\u7389\u6865\u5e97)",
+    "address": "\u5efa\u5b81\u8def8\u53f7\u7389\u6865\u5546\u4e1a\u5e7f\u573aB\u5ea7\u4e09\u697cF001\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV\u5357\u4eac\u6c5f\u5b81\u7802\u4e4b\u8239\u5965\u83b1\u60a0\u8c37\u5e97",
+    "address": "\u79e3\u5468\u4e1c\u8def\u7802\u4e4b\u8239\u6f6e\u7a7a\u95f4\u4e8c\u697c\uff08\u9ea6\u5f53\u52b3\u697c\u4e0a\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "S\u00b7KING KTV(\u592a\u9633\u57ce\u5e97)",
+    "address": "\u53cc\u9f99\u5927\u90531539\u53f721\u4e16\u7eaa\u592a\u9633\u57ce\u56fd\u9645\u8d2d\u7269\u4e2d\u5fc33\u697c\uff08\u6d77\u5e95\u635e\u9694\u58c1\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/9d30236c7034e1667f5b6cdb5a59dce1106861.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u82dc\u84ff\u56ed\u5927\u8857\u5317\u4eac\u534e\u8054\u5e97)",
+    "address": "\u77f3\u95e8\u574e165\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "K11\u91cf\u8d29KTV(\u80dc\u592a\u8def\u5e97)",
+    "address": "\u53cc\u9f99\u5927\u90531222\u53f7\u5f18\u9633\u5bb6\u5c45\u5e7f\u573a3\u697c\uff08\u661f\u5df4\u514b\u65c1\u3001\u8fd1\u80dc\u592a\u8def\u516c\u4ea4\u7ad9\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/8e3eea2c95ee1e008fe975a5f625801a390836.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5531\u5427\u9ea6\u9882KTV(\u592b\u5b50\u5e99\u6c34\u5e73\u65b9\u5e97)",
+    "address": "\u5efa\u5eb7\u8def3\u53f7\u6c34\u5e73\u65b9\u8d2d\u7269\u4e2d\u5fc32\u5c4205\uff08\u8fd1\u897f\u95e8\u3001\u661f\u5df4\u514b\u65c1\u697c\u4e0a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/3c7ec45c40b0e524b8d45d22c10ee7ca283179.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9996\u5e2d\u4f1a\u6240\u4ff1\u4e50\u90e8KTV",
+    "address": "\u5927\u5149\u8def\u8857\u9053\u5927\u5149\u8def186\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/7b82755701220ff6175ebf52acc934682343318.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u8f7bKTV(\u516d\u89d2\u5e7f\u573a\u5e97)",
+    "address": "\u7384\u6b66\u5927\u9053\u4e0e\u7ea2\u5c71\u8def\u4ea4\u53c9\u53e3\u516d\u89d2\u5e7f\u573a2\u697c\uff08\u9ea6\u5f53\u52b3\u697c\u4e0a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/3282d1a851e2281f0ec75bd65ced0a03128627.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6f3e\u7a7a\u95f4\u5f55\u97f3\u68da",
+    "address": "\u7ea2\u5c71\u8857\u9053\u66f9\u540e\u4e8c\u3001\u4e09\u675122\u680b103\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/d169d5c9e745cdf95bca0201ce42c2cc193310.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u79c0KTV\u91cf\u8d29(\u9ad8\u6df3\u60a6\u8fbe\u5e7f\u573a\u5e97)",
+    "address": "\u9547\u5174\u8def138\u53f73\u697c3-3\u30013-4\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/b950c3f0c2b5074b7bef31df798b733b131111.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6e29\u838eKTV(\u73e0\u6c5f\u8def\u5e97)",
+    "address": "\u73e0\u6c5f\u8def600\u53f7\u8c37\u9633\u4e16\u7eaa\u5927\u53a61-3\u5c42",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/ec84ca497408777c53a6bddbb761a159114305.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u666f\u67ab\u4e2d\u5fc3\u5e97)",
+    "address": "\u53cc\u9f99\u5927\u90531698\u53f7\u666f\u67ab\u4e2d\u5fc32\u5c42F136\u3001F226\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5929\u97f3\u91cf\u8d29\u5f0fKTV(\u82cf\u5b81\u73af\u7403\u8d2d\u7269\u4e2d\u5fc3\u5e97)",
+    "address": "\u6e56\u5357\u8def18\u53f7\u82cf\u5b81\u73af\u7403\u8d2d\u7269\u4e2d\u5fc3\u4e5d\u5c42",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d1a8d12f8323ee13776a7fb35a108948151807.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6e29\u838eSK(\u5357\u4eac\u5c71\u897f\u8def\u5e97)",
+    "address": "\u4e2d\u5c71\u5317\u8def217\u53f7\u9f99\u541f\u5e7f\u573a1\u30013\u30014\u30015\u697c\uff08\u8fd1\u5c71\u897f\u8def\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/28092b8b5e6c19eb89b757f522fb133576095.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u65b0\u8857\u53e3\u5e97)",
+    "address": "\u65b0\u8857\u53e3\u6b63\u6d2a\u885718\u53f7\u4e1c\u5b87\u5927\u53a6\u4e00\u79be\u5e7f\u573a3\u5c42\uff08\u4e2d\u592e\u5546\u573a\u505c\u8f66\u573a\u65c1\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u4ed9\u6797\u91d1\u9e70\u6e56\u6ee8\u5929\u5730\u5e97)",
+    "address": "\u5b66\u6d25\u8def1\u53f7\u91d1\u9e70\u6e56\u6ee8\u5929\u5730B\u533a3F",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u4fdd\u5229\u6a3e\u5e97)",
+    "address": "\u9f99\u7720\u5927\u9053\u5730\u94c1\u4e00\u53f7\u7ebf\u5357\u533b\u5927\u7ecf\u8d38\u5b66\u96622\u53f7\u53e3",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5357\u4eac\u9f13\u697c\u51ef\u745f\u7433\u5e7f\u573a\u5e97)",
+    "address": "\u5317\u4eac\u4e1c\u8def1\u53f7\u73af\u4e9a\u51ef\u745f\u7433\u5e7f\u573a1\u697c\uff08\u6d77\u5e95\u635e\u548cMIU\u9152\u5427\u65c1\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "WP-PARTY KTV(\u4e07\u8fbe\u5e97)",
+    "address": "\u5174\u9686\u8857\u9053\u6c5f\u4e1c\u4e2d\u8def\u4e07\u8fbe\u5e7f\u573a2\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/25254d2940fa6317d9725c75dea2f46777545.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u96e8\u82b1\u5ba2\u5385\u5e97)",
+    "address": "\u8f6f\u4ef6\u5927\u9053109\u53f71\u5e62\u5357\u4eac\u55e8\u7ad93\u5c42301\u53f7\uff08\u8c46\u5e93\u697c\u4e0a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7c73\u4e50\u661f\u4e16\u754cKTV(\u4e91\u5357\u5317\u8def\u5e97)",
+    "address": "\u4e91\u5357\u5317\u8def28\u53f7\uff08\u8fd1\u6e56\u5317\u8def\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/2fa51c1f9de75f8046c21a1030ea93622472704.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7c73\u8d29KTV\u91cf\u8d29(\u6e56\u5357\u8def\u5e97)",
+    "address": "\u6e56\u5357\u8def47\u53f7\u51e4\u51f0\u53f0\u996d\u5e973\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/2163e0a0ff40370685167092d545f06d370882.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "WP-PARTY",
+    "address": "\u4e2d\u592e\u5546\u573a(\u6cb3\u897f\u5e97)3\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/25254d2940fa6317d9725c75dea2f46777545.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u8d29KTV\u91cf\u8d29(\u6c5f\u5b81\u91d1\u9e70\u5e97)",
+    "address": "\u53cc\u9f99\u5927\u90531688\u53f7\u91d1\u9e70\u5929\u5730\u5e7f\u573aL3\u5c42",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/204a6016c036040bb43f71ab9183b871411726.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u4e50\u661f\u4e16\u754cKTV(\u4e2d\u5c71\u5357\u8def\u5e97)",
+    "address": "\u4e2d\u5c71\u5357\u8def505\u53f7\u901a\u670d\u5927\u53a63\u697c\uff08\u5730\u94c11\u53f7\u7ebf\u4e09\u5c71\u8857\u7ad94\u53f7\u53e3\u6b65\u884c200\u7c73,\u8fd1\u957f\u4e50\u8def\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/2fa51c1f9de75f8046c21a1030ea93622472704.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "M+",
+    "address": "\u5b89\u5fb7\u95e8\u5927\u885736\u53f7\u5b9c\u60a6\u57ce1\u697c\uff08\u5929\u9686\u5bfa\u5730\u94c1\u7ad92\u53f7\u51fa\u5165\u53e3,\u76d2\u9a6c\u9c9c\u751f\u697c\u4e0a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/2828c2a514b275bf7a85278b1c1a5d07426275.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5357\u4eac\u6865\u5317\u4e07\u8c61\u6c47\u5e97)",
+    "address": "\u6c5f\u5317\u65b0\u533a\u6d66\u73e0\u5317\u8def1\u53f7\u6865\u5317\u4e07\u8c61\u6c47\u5546\u4e1a\u5e7f\u573a2\u5c42L216\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "INLOVE KTV(\u5370\u8c61\u6c47\u5e97)",
+    "address": "\u5927\u6865\u5317\u8def\u5370\u8c61\u6c473\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/cf84819a94b8f191ca0961945d2a653d231943.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "V-MAX\u91cf\u8d29\u5f0fKTV(\u957f\u6c5f\u8def\u5e97)",
+    "address": "\u65b0\u8857\u53e3\u8857\u9053\u957f\u6c5f\u8def101\u53f7\u6587\u5316\u827a\u672f\u4e2d\u5fc36\u697c(\u8fd1\u4e58\u8f66\u8def)",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/2e0bbcda1b25be36d37d51fc8d8544a779856.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6085\u8072\u6703KTV(\u559c\u739b\u62c9\u96c5\u5e97)",
+    "address": "\u559c\u739b\u62c9\u96c5\u8d2d\u7269\u4e2d\u5fc3A\u5ea73\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/03329eba210d985381e3d426b2804eb4140272.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5e38\u53d1\u5e97)",
+    "address": "\u7ea2\u5c71\u8def88\u53f7\u5e38\u53d1\u5e7f\u573a1\u53f7\u697c3\u5c423B-019(\u7ea2\u5c71\u8def\u548c\u7ea2\u5c71\u5357\u8def\u4ea4\u53c9\u8def\u53e3)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6b22\u4e50\u8feaKTV(\u9e9f\u73d1\u6c47\u5e97)",
+    "address": "\u9e92\u9e9f\u8857\u9053\u5f00\u57ce\u8def111\u53f7\u9e9f\u73d1\u6c47\u5546\u4e1a\u5e7f\u573a3\u5c423F-01\u30013F-13\u53f7\u5546\u94fa",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/0b018179379002464622f2c48c45d80f284102.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6b22\u4e50\u8feaKTV(\u592b\u5b50\u5e99\u4e09\u5c71\u8857\u5e97)",
+    "address": "\u4e2d\u5c71\u5357\u8def321\u53f72\u680b302\u5ba4\uff08\u8fd11\u53f7\u7ebf\u4e09\u5c71\u8857\u5730\u94c1\u7ad93\u53f7\u53e3100\u7c73  \u73b0\u4ee3\u5927\u53a63\u697c\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/0b018179379002464622f2c48c45d80f284102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "in\u8c61\u6c47\u91cf\u8d29\u5f0fKTV(\u6b22\u4e50\u6e2f\u5e97)",
+    "address": "\u96c4\u5dde\u8857\u9053\u96c4\u5dde\u897f\u8def\u6b22\u4e50\u6e2f\u4e8c\u671f\u897f\u533a3F",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/ffee532b353b09ef46093b7f25caa3af357483.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4f17\u6f6eKTV(\u5cb1\u5c71\u5e97)",
+    "address": "\u5cb1\u5c71\u65b0\u57ce\u5cb1\u5c71\u4e2d\u8def6\u53f7\uff08\u897f\u5584\u82b1\u82d1,\u4e49\u5fb3\u897f\u82d1,\u5cb1\u5c71\u65b0\u57ce\u5cb1\u5c71\u793e\u533a\u4e2d\u5fc3\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/e9c4f94129368b0f5fb69c9a97d9eafd314584.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u68a6\u4e4b\u58f0\u4e3b\u9898KTV",
+    "address": "\u4e1c\u5c71\u8857\u9053\u6587\u9756\u897f\u8def173\u53f7(\u6587\u9756\u897f\u8def\u4e0e\u5317\u6cbf\u8def\u4ea4\u53c9\u8def\u53e3\u5904)",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/863d90f7589cfbc01d2eed30169647f2325010.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u90fd\u551bKTV(\u5357\u4eac\u6c5f\u5b81\u5e97)",
+    "address": "\u60a6\u6c11\u8857128\u53f7\u5929\u8d4b\u5e7f\u573a21\u680b3\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/456cc248130f4fbf09e796d40582e8da58461.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5fae\u9ea6KTV(\u7d2b\u5cf0\u5546\u52a1\u5e97)",
+    "address": "\u6e56\u5357\u8def\u8857\u9053\u4e91\u5357\u5317\u8def49\u53f7\u5929\u661f\u7fe0\u7405\u5927\u53a63\u697c(\u8fd1\u4e58\u8f66\u8def;\u8fd1\u7b49\u591a\u8def)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/163a207e1cb9e0c1c3aab13574598d96177942.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u54fc\u5440\u54c8HEYA\u7535\u97f3DJ\u6253\u789f\u5de5\u4f5c\u5ba4",
+    "address": "\u592a\u5e73\u5317\u8def\u73e0\u6c5f\u8def435\u53f7\u534e\u6d773c4\u697c4F8-1\uff08\u5730\u94c1\u4e09\u53f7\u7ebf\u6d6e\u68653\u53f7\u51fa\u53e3\uff09",
+    "cover_image_url": "http://p0.meituan.net/education/1cd18e8f3377c731bb7bbf7f94e470f7180442.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u6cb3\u897f\u91d1\u9e70\u4e16\u754c\u5e97)",
+    "address": "\u5e94\u5929\u5927\u8857888\u53f7\u91d1\u9e70\u4e16\u754c1\u53f7\u95e8\u81f33F\uff08\u91d1\u9e70\u7f8e\u672f\u9986\u5165\u53e3\u65c13\u53f7\u7535\u68af\u76f4\u8fbe\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u5357\u4eac\u4ed9\u6797\u7f8e\u7cd6\u5e7f\u573a\u5e97)",
+    "address": "\u6749\u6e56\u4e1c\u8def16\u53f7\u77f3\u6797\u7f8e\u7cd6\u5e7f\u573a\u897f\u533a2\u5c42201\u94fa\u4f4d",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6e29\u838eKTV(\u767e\u5bb6\u6e561912\u5e97)",
+    "address": "\u767e\u5bb6\u6e561912\u8857\u533a16\u53f7\u697c3\u5c42\uff08\u6e56\u8fb9\u505c\u8f66\u573a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/ec84ca497408777c53a6bddbb761a159114305.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u5357\u4eac\u96e8\u5c71\u9f99\u6e56\u5929\u8857\u5e97)",
+    "address": "\u5149\u660e\u8def59\u53f7\u96e8\u5c71\u5929\u8857A-2F-20",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b45KTV(\u57ce\u5357\u8302\u5e97)",
+    "address": "\u65b0\u6d66\u8def128\u53f7\u57ce\u5357\u8302\u5546\u573a\u4e09\u697cL309\u5ba4",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d65a0718f759d4ca319ec2974c1f3162708102.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6e29\u838e24K(\u65b0\u8857\u53e3\u5e97)",
+    "address": "\u4e2d\u5c71\u5357\u8def49\u53f7\u5546\u8302\u4e16\u7eaa\u5e7f\u573a\u4e09\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/34e7b93cba272cc3dae897ee13a960ea116608.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "WP-PARTY KTV(\u4e07\u8fbe\u8302\u5e97)",
+    "address": "\u4ed9\u6797\u6e56\u8def\u4e07\u8fbe\u83022\u53f7\u95e83\u697c",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/9266e21c9bae5f68c97e75fbea98aeb277728.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u84dd\u9cb8\u4eba\u5f55\u97f3\u68da(\u4ed9\u6797\u5e97)",
+    "address": "\u9a6c\u7fa4\u8857\u9053\u4e91\u90fd\u4f1a\u5e7f\u573a11\u5e62321\u5ba4",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/758028f8c1912eb2e1680e8baeb2aa4b1029039.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u58f0\u5de5\u4f5c\u5ba4",
+    "address": "\u83f1\u89d2\u5e0266\u53f722\u680b201-a\u3001202-a\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5de4c4b3ac2c2211e8a67b168aea141f267370.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u4e07\u6c47\u57ce\u5e97)",
+    "address": "\u6c5f\u5317\u65b0\u533a\u6d66\u53e3\u5927\u90538\u53f78\u53f7\u697c3\u5c42310.311.312\uff08\u4e07\u6c47\u57ce\u5546\u573a\u5317\u533aB\u5ea73F\u661f\u805a\u4f1aKTV\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5186fa209b75241cad065ed1309129b0591898.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u4ed9\u6c47KTV(\u4e07\u8fbe\u8302\u5e97)",
+    "address": "\u5e7f\u5fd7\u8def24\u53f71\u5e62126\u5ba4-129\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/c3205af6811210a5079ab13d5defc0e4230940.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u738b\u5e9c\u58f9\u53f7\u5546\u52a1\u4f1a\u6240\u00b7\u5a31\u4e50KTV\u00b7\u591c\u603b\u4f1a",
+    "address": "\u4e1c\u5c71\u8857\u9053\u7af9\u5c71\u8def30\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/460a144b04c97e1864f022182cc9bf0d371087.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e94\u97f3\u8865\u5168\u5f55\u97f3\u68da",
+    "address": "\u5929\u5143\u4e2d\u8def128\u53f7\u8bda\u57fa\u540d\u82d12\u5e62913\u5ba4",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/f5907a2a1d33d17e8928358bf53ece0c1259421.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u8f7bKTV(\u65b0\u8857\u53e3\u5e97)",
+    "address": "\u4e2d\u5c71\u8def55\u53f7\u65b0\u534e\u5927\u53a63F-305\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/2ebffdf2c85ff99984bc5e5749cbf6e535512.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "POP",
+    "address": "\u6c5f\u5c71\u8def6\u53f7\u91d1\u8c61\u57ce\u8d2d\u7269\u4e2d\u5fc32FJ-2F-07/08",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/6f52decd286523ecd35a4e0ab99cd36428754.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "E.Party.k\u81ea\u52a9\u91cf\u8d29",
+    "address": "\u77f3\u9f13\u8def48\u53f7\u5efa\u534e\u5927\u53a6",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/bde3591cc3e41b4faed0e2d5da94570f1198309.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u58f0\u6f5c\u00b71176Studio\u5f55\u97f3\u68da(\u5357\u4eac\u5e97)",
+    "address": "\u65b0\u4e16\u7eaa\u5e7f\u573ab\u5ea73022",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/7d9e26d28a010c2686ecb267f98f2e73317663.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6e29\u838eKTV(\u6cb3\u897f\u6c5f\u5c71\u4e2d\u5fc3\u5e97)",
+    "address": "\u6c5f\u5c71\u5927\u885768\u53f7\u6c5f\u5c71\u4e2d\u5fc33\u53f7\u697c3F-04-05-09-10",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/ec84ca497408777c53a6bddbb761a159114305.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u805a\u4f1aKTV(\u80dc\u592a\u8def\u552f\u54c1\u4f1a\u5e97)",
+    "address": "\u80dc\u592a\u8def11\u53f7\u552f\u54c1\u4f1a3L\uff0822\u70b9\u540e\u9ea6\u5f53\u52b3\u65c1\u5c0f\u53a8\u5a18\u95e8\u5385\u7535\u68af\u4e0a3\u697c\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/09c2bbec3100773acef4c7c577fcb466745619.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "SUMMER\u91cf\u8d29KTV",
+    "address": "\u745e\u91d1\u8def3\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/6138cc212032c00dad16a4bd30229266325760.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "in\u8c61\u6c47\u91cf\u8d29\u5f0fKTV(\u7af9\u5c71\u8def\u5b9c\u60a6\u91cc\u5e97)",
+    "address": "\u5929\u5143\u4e1c\u8def15\u53f7\u5b9c\u60a6\u91ccG66\u7b2c3\u5c42F3006\u5546\u94fa",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/c3b37ebf3614023b22c939e840ce3c8c655461.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5609\u5bcc\u534e\u5546\u52a1\u4f1a\u6240KTV\u00b7\u591c\u603b\u4f1a",
+    "address": "\u4e0a\u5143\u5927\u8857548\u53f7\u5c0f\u53a8\u5a18\u521b\u59cb\u5e97\u659c\u5bf9\u9762",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/8fbb149c35842ffe0d2f5e1060300c19205813.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "MAGO PARTY KTV(1912\u5e97)",
+    "address": "\u957f\u6c5f\u8def288\u53f71912\u8857\u533a13\u53f7\u697c",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/cbe59e9dba175710adfe976481e7e5dd545285.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "V\u00b7SHOW",
+    "address": "\u626c\u5b50\u6c5f\u5927\u9053208\u53f7\u6db5\u78a7\u697c\u91d1\u878d\u4e2d\u5fc3\u4e00\u5c42",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ba40c4230d35efc9a1e3c6977900c5a0455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "in\u8c61\u6c47\u91cf\u8d29\u5f0fKTV(\u6c5f\u5b81\u6587\u9f0e\u5e97)",
+    "address": "\u683c\u81f4\u8def99\u53f7\u6587\u9f0e\u5e7f\u573a9\u5e62\uff08\u6587\u9f0e\u5927\u53a6\u4e1c\u4fa7\uff09",
+    "cover_image_url": "http://p0.meituan.net/joymerchant/5460307765581898221-2832491-1493255932583.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "InTO\u5f55\u97f3\u68da",
+    "address": "\u4e2d\u5c71\u4e1c\u8def132\u53f7\u6c5f\u82cf\u5e7f\u64ad\u5927\u53a6\u8f85\u697c",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/318f8e9894eeb7a5bbfae62a765ffe00513732.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u8c1c\u97f3KTV",
+    "address": "\u5cb1\u5c71\u4e2d\u8def8\u53f7\u9890\u60a6\u8857\u4e8c\u697c209-213\u53f7\u5ba4\uff08\u5143\u7956\u98df\u54c1\u697c\u4e0a\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/b7e7c9cd5303263c8b5fc4c4671962c0271777.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "EAR HOUSE\u8033\u7a9d\u5f55\u97f3\u68da(\u6cb3\u897f\u5e97)",
+    "address": "\u6768\u5b50\u6c5f\u5927\u9053208\u53f7\u6db5\u78a7\u697c\u91d1\u878d\u4e2d\u5fc313\u697c1305",
+    "cover_image_url": "https://p1.meituan.net/merchantpic/552deb7db85e8a30ce0f774a5c2ae3d32680318.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u84dd\u68a6KTV",
+    "address": "\u5347\u5dde\u8def292\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/4a0708ede1fbdca3be9bdd5506c4dda9385810.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u62f3\u5934\u97f3\u4e50",
+    "address": "\u53f0\u57ce\u8def\u897f\u5bb6\u5927\u5858\u6587\u521b\u56ed55\u5e62101",
+    "cover_image_url": "https://p1.meituan.net/poiugc/f103a279b5798223969c2f12afa526b21101844.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "M+PARTY KTV(\u6ea7\u6c34\u00b7\u6c38\u5bff\u574a\u5e97)",
+    "address": "\u6c38\u9633\u8857\u9053\u897f\u575b\u8def99\u53f7\u6c38\u5bff\u574a\u6587\u5316\u5546\u4e1a\u8857\u533a9\u680b3F\uff08\u5168\u5b63\u9152\u5e97\u540e\u9762\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/2420ae276199a27b15776f52f706da6c357104.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u60f3\u6b4cKTV(\u752c\u5229\u5e7f\u573a\u5e97)",
+    "address": "\u9a6c\u7fa4\u8857\u9053\u82b1\u6e2f\u8def1\u53f7\u752c\u5229\u5e7f\u573a\u4e8c\u5c42",
+    "cover_image_url": "https://p1.meituan.net/merchantpic/60e8a55f0531f4834bb7a47a08f8555c521048.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u60a6\u98de\u626c\u91cf\u8d29\u5f0fKTV",
+    "address": "\u5c27\u5316\u95e8\u592a\u9f99\u8def\u4e09\u5143\u796099-5\u53f7D\u4e5d\u8857\u533a",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/09fac66beacf2a64f33a05e8b9ccbe0a153371.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9ea6\u5730\u5e26KTV(\u60a6\u5c45\u5e7f\u573a\u5e97)",
+    "address": "\u5929\u751f\u6865\u5927\u9053239\u53f7\u60a6\u5c45\u5e7f\u573a3\u5c42",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/e58bbdb739dd297f0f0f8865a923366b618042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9f0e\u7ea2\u56fd\u9645KTV(\u73cd\u73e0\u5357\u8def\u5e97)",
+    "address": "\u73cd\u73e0\u5357\u8def14\u53f7\uff08\u559d\u9152I66-5546-6746\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u551b\u5494\u7eafKTV(\u6865\u5317\u5e97)",
+    "address": "\u6cbf\u6c5f\u8857\u90531914\u5546\u4e1a\u88572\u680b2\u53f7(\u5a01\u5c3c\u65af\u9152\u5e97\u5bf9\u9762(\u8fd1\u5730\u94c13\u53f7\u7ebf\u67f3\u6d32\u4e1c\u8def\u5730\u94c1\u7ad9\u6b65\u884c800\u7c73))",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/803b2f7ca4bf1ad9d5e706c3b2158fa8235602.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "K party\u91cf\u8d29KTV(\u65b0\u8857\u53e3\u5e97)",
+    "address": "\u6d2a\u6b66\u8def239\u53f7\u65b0\u5927\u90fd\u5927\u53a6\u8d1f\u4e00\u5c42",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/ab7a459eac3737ecaf30ae336d34bb7041613.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7c73\u79c0KTV\u91cf\u8d29(\u9f99\u6c5f\u5e97)",
+    "address": "\u95fd\u6c5f\u8def\u805a\u798f\u56ed88\u53f7\uff08\u8fd1\u6f13\u6c5f\u8def\uff0c\u82cf\u679c\u793e\u533a\u5e97\u5bf9\u9762,\u5584\u94f6\u79c1\u623f\u83dc\u65c1\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/8d15b70eab614509dd22da80c394cc63317006.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65cb\u8f6c\u6728\u9a6cKTV",
+    "address": "\u5927\u5382\u8857\u9053\u845b\u5173\u8def688\u53f7(\u8fd1\u6768\u6751\u4e00\u8def)",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/f73d2c9e4a405de4d2f1fecf9a5c94b8352363.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u551b\u5494\u7eafKTV(\u4e1c\u5927\u8def\u5e97)",
+    "address": "\u6cf0\u5c71\u8857\u9053\u706b\u70ac\u8def\u534e\u4fa8\u7eff\u6d32209\u5e62(\u8fd1\u4e1c\u5357\u5927\u5b66\u6210\u8d24\u6821\u533a)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/ab85d7d67de3f2f321f74ab773fbe5bb215371.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65f6\u5149\u96a7\u9053\u91cf\u8d29KTV(\u5f71\u90fd\u5546\u6c47\u5e97)",
+    "address": "\u6a2a\u5c71\u897f\u8def8\u53f7\u5f71\u90fd\u5546\u6c472\u5c42",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/17bed12515abec8058acaac601c301d42706035.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u53f0\u5317\u551b\u7530KTV(\u5927\u89c2\u00b7\u5929\u5730\u5e97)",
+    "address": "\u5efa\u5b81\u8def300\u53f7\u5927\u89c2\u5929\u57303\u697cCY3-3\u5546\u94fa\uff08\u70ed\u6cb3\u8def\u53e3\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/272e47c221003bd2a7dde1c6fb6d9bbf1388971.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u97f3\u6d6a\u65f6\u4ee3\u91cf\u8d29KTV(\u7f8e\u5229\u5e7f\u573a\u5e97)",
+    "address": "\u845b\u5173\u8def818\u53f7\u7f8e\u5229\u5e7f\u573a3-07",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/50813064376694f5d8859c1868aaa0ca176459.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u540d\u9f0eKTV",
+    "address": "\u71d5\u5b50\u77f6\u8857\u9053\u548c\u71d5\u8def408\u53f7201\u5ba4",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/a8d28eb9be18a973d90eecca507fdcdf940491.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u58f0\u6c47\u9152\u5427\u5f0fKTV(\u987e\u5bb6\u00b7\u6b27\u4e9a\u8fbe\u5546\u4e1a\u5e7f\u573a)",
+    "address": "\u79e6\u6dee\u5927\u9053301\u53f7\u987e\u5bb6\u5546\u4e1a\u5e7f\u573a1\u53f7\u697c1010(\u9752\u5e74\u8def)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/28724a15881e11323cf5e2f418ad87f11060037.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u795e\u8bdd\u91cf\u8d29\u5f0fKTV(\u4e1c\u65b0\u5357\u8def\u5e97)",
+    "address": "\u4e1c\u65b0\u5357\u8def399\u53f7\u91d1\u5b9d\u7f8e\u98df\u57ceB\u5ea72\u697c\uff08\u91d1\u5b9d\u5546\u4e1a\u5e7f\u573a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/a9e631d3bf167ca7c4e1a7a8de770bee535396.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7cd6\u679c\u91cf\u8d29KTV",
+    "address": "\u65b0\u534e\u897f\u8def458\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/716536acbd5d569c651ca9b157525a2b183839.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9ea6\u9738KTV",
+    "address": "\u6c38\u9633\u8857\u9053\u4e2d\u5927\u885770\u53f7\u6e29\u5dde\u5546\u8d38\u57ce\u5185(\u4e2d\u533b\u9662\u9644\u8fd1)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/2405810eae5f90315034ff91ca9a1e1f555462.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u838eKTV\u91cf\u8d29\u00b7K\u6b4c\u00b7\u5f71\u9662\u00b7\u70e7\u70e4",
+    "address": "\u9f99\u7720\u5927\u9053688\u53f7\u5929\u5fa1\u6eaa\u5cb8\u82b1\u56ed8\u5e62301\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/15f3b813afa7bdc84bc9634671b632cc124376.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u551b\u5494\u7eafKTV(\u65b0\u534e\u8def\u5e97)",
+    "address": "\u5927\u5382\u8857\u9053\u65b0\u534e\u8def117\u53f7(\u6c83\u7f8e\u5f71\u57ce\u5bf9\u9762)",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/a76275bb041479cace9cdcdc138b753c489263.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5929\u7c41KTV",
+    "address": "\u6284\u7eb8\u5df74\u53f71-10\u5730\u4e0b\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/50c97aee8453bc5f1badd59725315d0137497.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u97f3\u6d6a\u65f6\u4ee3\u91cf\u8d29KTV(\u6fb3\u6797\u5e97)",
+    "address": "\u6d66\u73e0\u5317\u8def126\u53f7\u6fb3\u6797\u5e7f\u573a\u4e8c\u671f3\u697c",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/ef1a448de6a4a58dc3550260568634911235372.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e2d\u5f71GYktv",
+    "address": "\u6768\u516c\u4e9525\u53f7\u4e2d\u5f71GY\u5f71\u57ce",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/c20b2a8fe825c55e18a30ab5add768d7654132.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6717\u60a6\u99a8KTV",
+    "address": "\u5927\u5382\u8857\u9053\u6653\u5c71\u8def\u963f\u5c14\u5361\u8fea\u4e9a\u5546\u4e1a\u88571\u53f7(\u8fd1\u5730\u94c1S8\u5927\u5382\u7ad9\u65ed\u4e1c\u4e2d\u5b66\u65c1)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/7768b7c74916fcb32300f78a3719cd76177975.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u55e8\u79c0\u6d3e\u5bf9\u91cf\u8d29KTV(\u6ea7\u6c34\u5e97)",
+    "address": "\u5929\u751f\u6865\u5927\u9053\u5eb7\u5229\u5e7f\u573a\u4e8c\u697c\uff08\u4f53\u80b2\u9986\u5bf9\u9762)",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/2aaecbb3a0eced35e69e0f27e5a52afd96917.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u65f6\u4ee3\u551b\u54bbKTV(\u51a0\u57ce\u5e97)",
+    "address": "\u9f99\u6c60\u8857\u9053\u96c4\u5dde\u5357\u8def333\u53f7\u60a6\u65af\u835f\u4e8c\u697c\u76ca\u4e30\u5927\u836f\u623f\u697c\u4e0a",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/c1d7d7bdbc5408475aff6d5950edfd52861703.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u96f7\u6f2b\u91cf\u8d29KTV(\u9e92\u9e9f\u95e8\u5ba3\u4e49\u8def\u5e97)",
+    "address": "\u9e92\u9e9f\u8857\u9053\u9e92\u9e9f\u95e8\u8857\u9053\u5ba3\u4e49\u8def14\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/59782e96261309c838e9bac89875223d417133.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u98ce\u8046\u91cf\u8d29KTV(\u4e2d\u5357\u68c9\u82b1\u5858\u5e97)",
+    "address": "\u8d8a\u79c0\u8def29\u53f7\u8d8a\u79c0\u5546\u4e1a\u5e7f\u573aA1\u5e62246\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/b8f687a37ffcd8a1c45a3d247378ade82644004.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u65b0\u5750\u6807\u4e3b\u9898KTV",
+    "address": "\u5929\u5143\u4e1c\u8def388\u53f7\u4e49\u4e4c\u5546\u54c1\u57ceA\u533a1\u680b3\u697c301(\u9f99\u7720\u5927\u9053\u5730\u94c12\u53f7\u53e3\u5411\u4e1c50\u7c73)",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/bb10cddb748a4d52dd56b5478ba524d71142831.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u4e50\u96eaKTV(\u4e07\u8fbe\u8302\u5e97)",
+    "address": "\u5e7f\u5fd7\u8def24\u53f71\u5e62\u4e09\u697c298-301\u5ba4\uff08\u56fd\u9645\u88577\u53f7\u53e3\u5bf9\u9762\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/0a988ff90818709566c0c2c73a6374b7305653.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5c0f\u7c73\u7c92\u91cf\u8d29\u4e3b\u9898KTV(\u5927\u884c\u5bab\u5e97)",
+    "address": "\u4e2d\u5c71\u4e1c\u8def\u957f\u5b89\u56fd\u9645\u4e2d\u5fc3\u88d9\u697c3\u697c",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/e8932f8af5050bf22131cebbc00c975c242005.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u51e4\u51f0\u53f0KTV(\u53cc\u724c\u77f3\u5e97)",
+    "address": "\u51e4\u51f0\u8def123\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5fc3\u58f0\u6b23\u4e50\u97f3\u4e50\u5de5\u4f5c\u5ba4",
+    "address": "\u5f18\u8f89\u9f99\u6c5f\u91cc503",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/45a337fa552fec04f85de80ad8bbe483547471.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6ce1\u6ce1\u5802\u91cf\u8d29\u5f0fKTV",
+    "address": "\u79e3\u9675\u8857\u9053\u5929\u5143\u4e1c\u8def388\u53f7\u5357\u4eac\u4e49\u4e4c\u5c0f\u5546\u54c1\u57ceB\u533a10\u680b\u4e09\u697c01\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/9a2cda6bcc267f6863dcd3a2ef44d2d180849.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7c73\u8d29KTV\u91cf\u8d29(\u65b0\u8857\u53e3\u5e97)",
+    "address": "\u6d2a\u6b66\u8def23\u53f7\u9686\u76db\u5927\u53a6\u897f\u5165\u53e3",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/28a4a1d074f1ddd113843aee395b4883404097.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7231\u5c1a\u91cf\u8d29KTV(\u82cf\u5b81\u73af\u7403\u5927\u53a6\u5e97)",
+    "address": "\u5e7f\u5dde\u8def188\u53f7\u82cf\u5b81\u73af\u7403\u5927\u53a6A\u5ea75F",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/f8e5e8fd2770087539daf641ff4414ec671513.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6b22\u4e50\u8feaKTV(\u9f99\u87e0\u6c47\u5e97)",
+    "address": "\u9f99\u87e0\u4e2d\u8def419\u53f7\u9f99\u87e0\u6c473\u5c423-10\u5546\u94fa",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/fe01e51b6b11e359e7b2967c031b779b885190.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u97f3\u4e50\u4e4b\u58f0\u5546\u52a1\u4f1a\u6240\u00b7\u591c\u603b\u4f1a",
+    "address": "\u5929\u5143\u4e2d\u8def118\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/3fe864fa870d160b89f7566787d29f46874258.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "LJ PARTY KTV\u4f1a\u6240\u591c\u603b\u4f1a",
+    "address": "\u5929\u5143\u4e1c\u8def228\u53f7\u83b1\u8335\u4e4b\u661f\u5927\u53a6\u4e8c\u697c\uff08\u8fd1\u5929\u5370\u5927\u9053\u5730\u94c1\u53e3\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/ac8ab8b8c81fd82e1281c3394109558a708136.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5cf0\u4e91\u6c47\u91cf\u8d29\u5f0fKTV(\u534e\u8109\u79d1\u6280\u5e7f\u573a\u5e97)",
+    "address": "\u4e30\u6cfd\u8def66\u53f7\u534e\u8109\u79d1\u6280\uff08\u4e09\u697c\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/034f25388f831811c13e5b7ab6a64db152500.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "XIANG\u6d3e\u5bf9KTV(\u5e78\u798f\u57ce\u5e97)",
+    "address": "\u96e8\u6865\u5e78\u798f\u57ce\u4fca\u624d\u8def2\u53f73F",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/9e7e3c523e7b3c609cd6576287dee45e978806.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u516d\u97f5\u91cf\u8d29\u5f0fKTV",
+    "address": "\u5317\u4eac\u4e1c\u8def8\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/dc194bfabc163305adc2b1a466dd14f61156425.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b54\u9b45 KTV(\u91d1\u4e5d\u6c47\u5e97)",
+    "address": "\u6e56\u5c71\u8def288\u53f72\u53f7\u697c3\u697c\uff08\u91d1\u4e5d\u6c473\u697c\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/e16616d5322bfeb566ad3ecff3fa485b66675.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u597d\u58f0\u97f3KTV(\u5b9d\u5854\u5317\u8def\u5e97)",
+    "address": "\u5b9d\u5854\u5317\u8def11\u53f7\u4e2d\u6e90\u9633\u5149\u57ce86\u5e62106\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/2f200aa5ecd5f80f1bbe87b3b8dc2f22813857.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "IM",
+    "address": "\u6768\u5c06\u519b\u5df79\u53f7\u66fc\u5ea6\u6587\u5316\u5e7f\u573a\u4e09\u697c",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/3cee1fe6b19c564e093cfe4d887e4699132013.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e50\u754cKTV(\u8679\u6865\u4e2d\u5fc3\u5e97)",
+    "address": "\u6339\u6c5f\u95e8\u8857\u9053\u4e2d\u5c71\u5317\u8def281\u53f7\u8679\u6865\u4e2d\u5fc3\u4e09\u697c(\u8fd1\u548c\u4f1a\u8857)",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/081e72bbee6096227b461b85675c54f0132648.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u8363\u5cf0\u97f3\u4e50\u4ff1\u4e50\u90e8",
+    "address": "\u65b0\u534e\u4e1c\u8def49\u53f7\u8363\u5cf0\u5927\u9152\u5e971\u697c\uff08\u8fd1\u9e92\u9e9f\u8f6c\u76d8\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/ba2fde3c89fac20d73e3296650b8d14c292942.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9b3c\u4e50\u6982\u5ff5\u97f3\u4e50\u5b9a\u5236\u4e2d\u5fc3",
+    "address": "\u4e1c\u5c71\u8857\u9053\u535a\u7231\u8857\u5fbd\u5546\u5927\u53a6811",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/e8da1e962cd5805b5edea4c77f1e5fc0743883.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u838e\u5546\u52a1\u4f1a\u6240KTV",
+    "address": "\u677f\u4ed3\u88579\u53f7\uff08\u4e16\u754c\u4e4b\u7a97\u6587\u5316\u4ea7\u4e1a\u56edA\u533a\u5357107\u3001\u5317104-108\u5ba4\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/0c340ba996dd2024ad8a2f345079cf67111538.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "MAGO",
+    "address": "\u6c5f\u4e1c\u4e2d\u8def300\u53f7\u5357\u4eac\u56fd\u9645\u535a\u89c8\u4e2d\u5fc310\u53f7\u99867\u95e83\u5c42",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/38a307dbc0baf1dfd42c81039956f584474698.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9f0e\u9e3f\u58f9\u53f7\u5546\u52a1KTV(\u8f66\u7ad9\u4e1c\u5df7\u5e97)",
+    "address": "\u8f66\u7ad9\u4e1c\u5df712\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u987d\u77f3\u5f55\u97f3\u68da",
+    "address": "\u5e90\u5c71\u8def158\u53f7\u5609\u4e1a\u56fd\u9645\u57ce2\u680b2702\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/apiback/2450cb62049034a57b0f0021ec837e9b55013.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7f24\u7eb7\u65f6\u4ee3KTV",
+    "address": "\u5174\u65fa\u8def\u6b23\u65fa\u82b1\u82d1\u5bf9\u9762\u4e1c100\u7c73",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u65f6\u4ee3\u7eafktv(\u5357\u65b9\u65f6\u4ee3\u5e7f\u573a\u5e97)",
+    "address": "\u6da6\u53d1\u8def9\u53f7\u5357\u65b9\u65f6\u4ee3\u5e7f\u573aF3\u5c42",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/4710121baf14338001be7d65000a86a52852972.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u597d\u58f0\u97f3\u91cf\u8d29KTV(\u4e39\u9633\u6e56\u5317\u8def\u5e97)",
+    "address": "\u6df3\u6eaa\u8857\u9053\u6e56\u5317\u8def22\u53f7(\u8fd1\u6c7d\u8f66\u5ba2\u8fd0\u7ad9)",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/49e6cc6438380f005ab78b5ffb57ca08281552.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u963f\u5c14\u5361\u8fea\u4e9a\u56fd\u9645\u9152\u5e97-KTV",
+    "address": "\u73af\u9f99\u6c60\u8def20\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u58f0\u97f3\u788e\u7247\u5f55\u97f3\u68da",
+    "address": "\u4ed9\u6797\u4e2d\u5fc3\u7ad9\u98ce\u534e\u8def1\u53f7\u4ed9\u6797\u66fc\u5ea6\u5e7f\u573a\u8d1f\u4e00\u697c\u82b1\u56ed",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/4e5f63128efb1a38a6e470e5655df81c1852165.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u592a\u9686\u9152\u5e97-KTV",
+    "address": "\u4e2d\u5c71\u4e1c\u8def160\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ba40c4230d35efc9a1e3c6977900c5a0455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6c38\u5229CLUB",
+    "address": "\u5b9d\u5854\u8def133\u53f710\u5e62301\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/38a307dbc0baf1dfd42c81039956f584474698.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "M+PARTY.K(\u7eff\u6ea2\u56fd\u9645\u5e7f\u573a\u5e97)",
+    "address": "\u9ec4\u5c71\u8def2\u53f7\u7eff\u6ea2\u56fd\u9645\u5e7f\u573a3\u697c,\u5fc5\u80dc\u5ba2\u65c1\u624b\u6276\u68af\u4e0a\u4e09\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/aab305d064cb700ca79eca9860599a52481887.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u79c0KTV\u91cf\u8d29(\u7d2b\u91d1\u5e97)",
+    "address": "\u4e2d\u5c71\u95e8\u5927\u885799\u53f7\u541b\u4e34\u7d2b\u91d1\u5546\u4e1a\u88572\u680b",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/65b4db1d89ec66cafb3ade8ca553dd09110244.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u745e\u53ef\u91cf\u8d29\u5f0fKTV(\u91d1\u6d66\u5e7f\u573a\u5e97)",
+    "address": "\u6587\u5fb7\u8def\u91d1\u6d66\u5047\u65e5\u767e\u8d274\u697c",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/9af282f7c20d6d038e97451dfd44dd6a199789.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7fe0\u5c4f\u767e\u4e50\u6c47\u91cf\u8d29\u5f0fKTV",
+    "address": "\u79e3\u9675\u8857\u9053\u80dc\u592a\u897f\u8def168\u53f7(\u80dc\u592a\u8def\u5927\u5e02\u573a\u65c1)",
+    "cover_image_url": "https://p1.meituan.net/merchantpic/d23df648629f389791a90e1755455c08353816.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e50\u8c6aKTV(\u4e2d\u5c71\u5357\u8def\u5e97)",
+    "address": "\u4e2d\u5c71\u5357\u8def101\u53f7\u91d1\u92ae\u5927\u53a6\u9662\u5185\u683c\u6797\u8c6a\u6cf0\u9152\u5e972\u697c\uff08\u65b0\u8857\u53e3\u5730\u94c1\u7ad914\u53f7\u51fa\u53e3\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/65956d82262a228b963ab9286f366cac365013.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9ea6\u5730\u5e26(\u5927\u5382\u5e97)",
+    "address": "\u5927\u5382\u8857\u9053\u5357\u4eac\u5927\u5382\u6768\u67512\u8def233\u53f7(\u626c\u5b50\u4e00\u4e2d\u5bf9\u9762)",
+    "cover_image_url": "https://p1.meituan.net/merchantpic/212faf81d67ed8945beb4b8e09d64067748538.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7c73\u79c0KTV\u91cf\u8d29(\u695a\u7fd8\u57ce\u5e97)",
+    "address": "\u8f6f\u4ef6\u8c37\u5b89\u5fb7\u95e8\u5927\u885757\u53f7\u695a\u7fd8\u57ce\u5546\u4e1a1\u53f7\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/7aee410a6378f8bab9a35a65fe90c24c152032.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6f2bktv(\u4e07\u8fbe\u8302\u5e97)",
+    "address": "\u4ed9\u6797\u5927\u9053\u4e07\u8fbe\u8302\u4e07\u8fbe\u4e2d\u5fc31\u5e62\u4e8c\u697c183-186\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/3da93df43c02e2c96eb7ef75788d738e82262.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "MKING",
+    "address": "\u7af9\u5c71\u8def293\u53f7",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/79c7ee997fbb73bf81102ebc85e30578317481.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u551b\u5494\u7eafKTV(\u6c5f\u6d66\u5e97)",
+    "address": "\u65b0\u6d66\u8def120\u53f7\u7693\u5929\u751f\u6d3b\u5e7f\u573a3\u697c(\u5927\u6da6\u53d1\u65c1)",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/4fbd641f7aaf5486b14cd50b0839855852661.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e1c\u65b9\u7687\u5eadKTV(\u65f6\u4ee3\u5e97)",
+    "address": "\u9f99\u6c60\u8857\u9053\u534e\u6b27\u5927\u90538\u53f7\u8363\u76db\u65f6\u4ee3\u5e7f\u573a3\u697cC5-1\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/056ad77c19fbf5e9d092577d2708f6bb358156.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u97f3\u6d6a\u65f6\u4ee3\u91cf\u8d29KTV(\u5929\u8fc8\u5e7f\u573a\u6cb9\u574a\u6865\u5e97)",
+    "address": "\u5730\u94c1\u6cb9\u574a\u6865\u7ad9\u5929\u8fc8\u5e7f\u573a2\u697c(\u8fd1\u5730\u94c12\u53f7\u7ebf\u6cb9\u574a\u6865\u7ad9)",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/dea73631e78e8f07caacfd098fa62c091760389.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7c73\u79c0KTV\u91cf\u8d29(\u5361\u5b50\u95e8\u5e97)",
+    "address": "\u4e01\u5899\u8def\u590d\u5730\u5e7f\u573a\u4e8c\u671fC\u533a2\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/08e41e9f6de4570537fcdd0695700257136643.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65b0\u5ea7\u6807\u91cf\u8d29KTV(\u91d1\u76db\u8def\u5e97)",
+    "address": "\u91d1\u76db\u8def299\u53f7\u5929\u5730\u65b0\u57ce\u7efc\u5408\u697cF2-4\u3001F2-5\u3001F2-6",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/e2ebd1befdd7a35c3c995e05eafd53ce335748.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6b22\u4e50\u5802KTV",
+    "address": "\u6c64\u6cc9\u4e1c\u8def\u6c34\u4e0a\u5927\u697c\u4e09\u5c42\uff087\u5929\u8fde\u9501\u9152\u5e97\u659c\u5bf9\u9762\uff09",
+    "cover_image_url": "https://qcloud.dpfile.com/pc/iv6fpa4G2LFRiraloUXR4NHHjwLDhrxELdZWcbPulSYMyUnxe74hwCXsA8S86qdXd5VyLhA3eh9bnfuMRhvrVlEuLYk00OmSS1IdNpm8K8sG4JN9RIm2mTKcbLtc2o2vfCF2ubeXzk49OsGrXt_KYDCngOyCwZK-s3fqawWswzk.jpg"
+  },
+  {
+    "shop_name": "MK",
+    "address": "\u9f99\u6d25\u8def8\u53f7\u91d1\u5b81\u5e7f\u573a3\u697c(\u8fd1\u4eba\u6c11\u533b\u9662)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/e1af8bd01571cb34d529ccecb4dbc18a254645.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u68a6\u5e7b\u5a31\u4e50KTV",
+    "address": "\u5e7f\u5fd7\u8def24\u53f71\u5e62284-289\u4e09\u697c\uff08\u60f3\u4f60\u6f6e\u62cd\u65c1\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/2744f061188c09366b399f96dc0f9488279412.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u53f0\u5317\u551b\u7530KTV(\u9ed1\u9f99\u6c5f\u8def\u5e97)",
+    "address": "\u9ed1\u9f99\u6c5f\u8def33\u53f73\u53f7\u697c201",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/e3c5b418c3fb8bbb14372af23331aa00204426.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7c73\u6765\u5fc3\u91cf\u8d29KTV",
+    "address": "\u76d8\u9526\u82b1\u56ed027\u5e621\u5355\u5143103\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/ef77ca1546a573ad6a0a2c8976f54baf3000706.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u60a6\u835fKTV(\u4e1d\u5170\u6e56\u5546\u4e1a\u4e2d\u5fc3\u5e97)",
+    "address": "\u767e\u5408\u8def69\u53f7\u4e1d\u5170\u6e56\u5546\u4e1a\u4e2d\u5fc33\u697c302\u3001303\u5546\u94fa\uff08\u8fd1\u4e1d\u5170\u6e56\u516c\u56ed\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/503f2b51497797bb646a8987b588e7e09668.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5531\u54cd\u4e16\u7eaaKTV(\u9ad8\u65b0\u5e97)",
+    "address": "\u9ad8\u65b0\u5b66\u5e9c\u8def3\u53f72\u697c\uff08\u8fd1\u91d1\u9675\u5b66\u9662\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/3d3f9a271006b73deb483e414b0010082508970.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u551b\u5494\u7eafKTV(\u5cb1\u5c71\u5e97)",
+    "address": "\u4e1c\u6765\u5965\u5357\u57ce\u8d2d\u7269\u5e7f\u573a2F",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/fd078212d8e27a30824c3d5f1ec7b513172594.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "ONCE",
+    "address": "\u4e1c\u5c71\u8857\u9053\u4e0a\u5143\u5927\u8857548\u53f7-07\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3a938e7c0065702c2292b0e62fefc962532322.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u5e1dKTV(\u516c\u56ed\u8def\u5e97)",
+    "address": "\u516c\u56ed\u8def17\u53f7(\u51ef\u65cb\u5047\u65e5\u5927\u9152\u5e97\u65c1)",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u67e0\u6aac\u679c\u91cf\u8d29KTV(\u5f18\u9633\u5e7f\u573a\u5e97)",
+    "address": "\u5927\u6865\u5317\u8def\u5f18\u9633\u5e7f\u573aC\u533a3\u697c311",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/554736860851394b1c010352c2d4da5f175652.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u76ae\u5361\u4e18\u4e3b\u9898KTV(\u83b1\u8335\u8fbe\u8def\u5e97)",
+    "address": "\u83b1\u8335\u8fbe\u8def15\u53f7\uff08\u8fd1\u6fb3\u95e8\u8c46\u635e\uff09",
+    "cover_image_url": "https://p1.meituan.net/merchantpic/0fe816f22fd58fd1badec6ed94668a98291674.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65b0\u58f0\u4ee3\u91cf\u8d29KTV(\u5317\u5cad\u8def\u5e97)",
+    "address": "\u6df3\u6eaa\u8857\u9053\u5317\u5cad\u8def25\u53f7\u745e\u5bcc\u5e7f\u573a(\u5361\u4e50\u8fea\u5bf9\u9762)",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/70e21e4a4625cfba795c3e2e454ea58a2401992.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7231\u7434\u6d77\u4e3b\u9898\u91cf\u8d29\u6e05\u5427KTV",
+    "address": "\u6765\u51e4\u8def\u767e\u5229\u5e7f\u573a2\u53f7\u697c\u4e09\u697c",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5531\u54cd\u4eba\u95f4",
+    "address": "\u5ef6\u5b89\u8def80\u53f7\u516d\u5408\u533a\u4f53\u80b2\u573a\u5168\u6c11\u5065\u8eab\u5927\u697c3\u697c",
+    "cover_image_url": "https://qcloud.dpfile.com/pc/ILq3FI6JRQoOLXHok12YPPoED352fRofdYDOb0UDE3KIulqpyu5CrgAeUC6_DsFLtinsm4wZBU2JBzCyrLLxBw.webp"
+  },
+  {
+    "shop_name": "\u5929\u4e0a\u4eba\u95f4",
+    "address": "\u5927\u4e1c\u95e8\u5546\u4e1a\u6b65\u884c\u885788\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/a20bf517d3254ddcc07c30ec4cbfe3bf1067425.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u540d\u4eba\u5c9b\u81f3\u5c0a\u4f1a\u6240",
+    "address": "\u6e56\u5357\u8def8\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "SAM_STUDIO\u5f55\u97f3\u68da",
+    "address": "\u4e91\u9f99\u5c71\u8def89\u53f72\u5e621515\u5ba4",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/ef73f8c1a9f2f26b0cc54338d954af791993967.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u805a\u6c47",
+    "address": "\u8f66\u7ad9\u4e1c\u5df712\u53f7\uff08\u559d\u9152\u54a8\u8be2I80-9421-9873\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/86cd4c5f9d124fa4eb7caca5570538f2463795.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "T33(\u9f13\u697c\u5e97)",
+    "address": "\u4e2d\u5c71\u5317\u8def49\u53f7\u4e8c\u5c42\uff08\u5531\u6b4c\u54a8\u8be2180-942I-9873\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/5196d13fc03f08fba4cd72ac11de23fe354922.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u53f0\u5317\u4e50\u8db4KTV(\u65b0\u8857\u53e3\u5e97)",
+    "address": "\u7f8a\u76ae\u5df7\u4e0e\u91d1\u92ae\u5df7\u4ea4\u53c9\u53e3\u534e\u76c8\u56fd\u96453F",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/488d792a81d4a23f5a6efa892e7ae283173815.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u53f0\u5317\u4e50\u8db4KTV(\u5149\u534e\u8def\u5e97)",
+    "address": "\u5149\u534e\u8def\u8857\u9053\u5149\u534e\u8def147\u53f71-9(\u80af\u5fb7\u57fa\u65c1)",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5e06\u9ea6\u81ea\u52a9KTV(\u5b5d\u9675\u536b\u5e97)",
+    "address": "\u5b5d\u9675\u536b\u8857\u9053\u4e2d\u5c71\u95e8\u5927\u8857297\u53f75\u680b120\uff08\u6e24\u6d77\u94f6\u884c\u540e\u9762\uff09",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/ce6baf990877ab8a88f61db46c3f3ed6456162.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e50\u6609\u91cf\u8d29\u5f0fKTV(\u6587\u9756\u897f\u8def\u5e97)",
+    "address": "\u6587\u9756\u897f\u8def99\u53f7",
+    "cover_image_url": "https://p0.meituan.net/merchantpic/98ae32ac383f1fa9dca39aa6d31e2d62856086.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6676\u5229\u91cf\u8d29KTV(\u72b6\u5143\u697c\u5e97)",
+    "address": "\u72b6\u5143\u58839\u53f7\u72b6\u5143\u697c\u5927\u9152\u5e97A\u5ea7\u4e8c\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/266fb1ddb15820773a9ff8e787b1d047470016.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "ZQ\u00b7party\u91cf\u8d29KTV",
+    "address": "\u738b\u5e9c\u5927\u8857136\u53f7\u4e8c\u697c",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/680d76ee87c9a5e1a5e5399afbf3c961498326.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e91 PARTY KTV",
+    "address": "\u534e\u4fa8\u8def56\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/d85a73e16bfd56ead1fc1d07f13d1907274819.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6b22\u559c\u57ceKTV(\u897f\u57ce\u5e7f\u573a\u5e97)",
+    "address": "\u6c49\u4e2d\u95e8\u5927\u8857151\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/cd4820d0c5b2c6fcdec462da47030ac2475613.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5b81\u6c85\u56fd\u9645KTV(\u5929\u5143\u4e1c\u8def\u5e97)",
+    "address": "\u5929\u5143\u4e1c\u8def56\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/7f522b6e7bc6a7d47741157ec1db8c8c790660.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u76db\u4e16KTV",
+    "address": "\u5f18\u9633\u5927\u9053\u5f18\u9633\u88c5\u9970\u57ceD3\u5e62B\u5ea73\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/37e1bcbabd1f5382fdc8e20c2a4b530534985.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "234\u91d1\u9f0eKTV",
+    "address": "\u5b9d\u5854\u8def23\u53f7\u5b9d\u57ce\u540d\u82d109\u5e62106\u5ba4\uff08\u559d\u9152\u7279\u60e0I95-1440-8171\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/a20bf517d3254ddcc07c30ec4cbfe3bf1067425.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u83f2\u55e8\u91cf\u8d29\u5f0fKTV(\u79e3\u9675\u5e97)",
+    "address": "\u94f6\u51e4\u88572\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/ef9414663a6ecfa37e7895edf58968f3349342.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5faa\u73af\u5f55\u97f3\u68da",
+    "address": "\u5efa\u5b81\u8def306\u53f7\u8bc1\u5927\u9605\u516c\u9986D\u680b1413\u5ba4",
+    "cover_image_url": "https://p1.meituan.net/merchantpic/e87dce2954dc7a31197cb3c5b88394af60088.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9f99\u5448KTV(\u94dc\u4e95\u5e97)",
+    "address": "205\u56fd\u9053\u91d1\u6842\u82d151\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/4f91f6bb9d386ecc74021cf2cacd4a3885990.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u597d\u58f0\u97f3KTV(\u65ed\u4e1c\u8def\u5e97)",
+    "address": "\u65ed\u4e1c\u8def\u5927\u5382\u5468\u5bb6\u6d3c114\u53f7\uff08\u6bd5\u6d3c\u8def\u4e0e\u65ed\u4e1c\u8def\u7ea2\u7eff\u706f\u8def\u53e3\u5904\uff09",
+    "cover_image_url": "https://img.meituan.net/mogu/dbec46afc07487eef165af599a65064e649811.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5929\u6cd3\u56fd\u9645\uff08\u5b9d\u5854\u8def\u5e97\uff09 \u8ba2\u7bb1",
+    "address": "\u5b9d\u5854\u8def23\u53f7\u5b9d\u57ce\u540d\u82d111\u5e62109\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/8efa6bb7122d68d36aea2b3c5dbc245a170161.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5929\u5929\u4e50ktv",
+    "address": "\u77f3\u81fc\u6e56\u5317\u8def27\u53f7\u534e\u57ce\u83dc\u573a2\u5c421\uff08\u5531\u6b4c\u559d\u9152186-6272-352I\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/38a307dbc0baf1dfd42c81039956f584474698.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u70b9\u70b9\u5531\u5531",
+    "address": "\u6c38\u5b81\u897f\u88578-4\u53f7\uff08\u5531\u6b4c\u54a8\u8be2133-0I59-5094\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "V\u79c0\u5546\u52a1\u4f1a\u6240KTV\u00b7\u591c\u603b\u4f1a",
+    "address": "\u6d2a\u6b66\u8def26\u53f7\u5929\u4e30\u5927\u9152\u5e973\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/18597a7538f19e01babc703d31719ba6323495.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u745e\u53ef\u91cf\u8d29\u5f0fKTV(\u767d\u9a6c\u751f\u6d3b\u5e7f\u573a\u5e97)",
+    "address": "\u767d\u9a6c\u751f\u6d3b\u5e7f\u573a2\u697c",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/bc3ba428ae389c591a177429cd6589e0174576.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u805a\u670b\u5546\u52a1\u4f1a\u6240KTV\u00b7\u591c\u603b\u4f1a",
+    "address": "\u4e1c\u5c71\u8857\u9053\u65b0\u533b\u8def8\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/9f1253db1ba53c630b93292953be5aa01393977.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u8f89\u56fd\u9645\u5546\u52a1ktv\u00b7\u591c\u603b\u4f1a",
+    "address": "\u4e1c\u5c71\u8857\u9053\u91d1\u7b94\u8def1001\u53f7\u9ec4\u91d1\u8857\u533a1\u5e62302\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/3fe864fa870d160b89f7566787d29f46874258.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u9ea6\u4f1a\u6240KTV",
+    "address": "\u5929\u5143\u4e1c\u8def228\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ccbd3e6a48fbb5a9e79861e252e7e2c6388315.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "Go",
+    "address": "\u9ed1\u9f99\u6c5f\u8def35\u53f7\u91d1\u9675\u5927\u516c\u99861\u53f7\u697c201\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/21b2b5932f60a5a808d18153f4aeb6de269176.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u548cHE\u5546\u52a1\u4f1a\u6240KTV\u00b7\u591c\u603b\u4f1a(\u6c5f\u5b81\u5e97)",
+    "address": "\u5929\u5143\u4e1c\u8def168\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/0e08b7d7ab106ef1ef58128684511d3f314813.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u82b1\u58f0\u68e0\u00b7\u91cf\u8d29\u5f0fKTV",
+    "address": "\u5317\u7965\u8def58\u53f7\u82b1\u6837\u559c\u5e74\u4e2d\u5fc3",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/734c55ac8c27b5893d59e9065ef0251c177624.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u591c\u91d1\u9675KTV",
+    "address": "\u6c5f\u82cf\u8def138\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/d754381d429117c40f636cef9b1f10ef277288.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7eafK\u4ff1\u4e50\u90e8",
+    "address": "\u4e2d\u5c71\u5317\u8def",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/eb237c1cce40f47752011fc0563c9f6b455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e50\u6ee1\u5802KTV",
+    "address": "\u7389\u5170\u8def99\u53f72\u5e62-1",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/a75919ed00ed1c4adf84eedad9b5476e214003.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7199\u60a6\u4f1aKTV",
+    "address": "\u4e09\u724c\u697c\u5927\u8857117-119\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/1e7c1c4ed8d3a8c037b2efe78ad5802f271506.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6b4c\u53cb\u835f\u91cf\u8d29KTV",
+    "address": "\u58a8\u9999\u8def27\u53f72\u5c42",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/e268945570171eb800f0f96958ca5a771044580.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "1001 PARTYK",
+    "address": "\u6d2a\u6b66\u8def23\u53f7\u9686\u76db\u5927\u53a6103\u5ba4",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e0a\u5ba2\u91cf\u8d29\u5f0fKTV(\u4fe1\u5b89\u5927\u53a6\u5e97)",
+    "address": "\u4e91\u9f99\u5c71\u8def100\u53f7\uff08\u5531\u6b4c\u4f18\u60e0133-477I-6438\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/86cd4c5f9d124fa4eb7caca5570538f2463795.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b54\u90fdKTV",
+    "address": "\u65b0\u5317\u8def\u96e8\u5c71\u7f8e\u5730\u4e1c\u95e8\u4e1c\u4fa7\u7ea680\u7c73",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/932882c61965330f8be331d2473d2d96138418.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u91d1\u8272\u65f6\u4ee3KTV(\u516d\u89d2\u5e7f\u573a\u5e97)",
+    "address": "\u7384\u6b66\u5927\u90536\u53f7\u516d\u89d2\u5e7f\u573aF1\u5c42",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ba40c4230d35efc9a1e3c6977900c5a0455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u84dd\u6708\u6c47KTV",
+    "address": "\u4e1c\u5c71\u8857\u9053\u6e56\u4e1c\u8def29\u53f72\u53f7\u697c108\u53f7(\u6c5f\u5b81\u9ad8\u65b0\u56ed)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/044ec14b0b0e8fb687ac663919e1c82d25561.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "i am KTV",
+    "address": "\u7384\u6b66\u5927\u9053108\u53f7\u5f90\u5e84\u8f6f\u4ef6\u56ed\u4e8c\u671f\u805a\u6167\u56ed6\u53f7\u697c3\u5c42303",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/bdfc331ab73f62a2dd8aac0c8132eea8472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "HOME PARTY KTV(\u57ce\u5e02\u540d\u4eba\u5e97)",
+    "address": "\u4e2d\u5c71\u5317\u8def30\u53f7\u540d\u4eba\u57ce\u5e02\u5e7f\u573a601\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/d7561258354fc97bf6fe4480ddc2aa0c256088.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "MN PARTY ROOM",
+    "address": "\u65b0\u57ce\u79d1\u6280\u56ed\u521b\u65b0\u7efc\u5408\u4f53\u65c1B7\u680b1\u53f7\uff08KTV\u54a8\u8be2133-0159-5O94\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7984\u53e3\u91cf\u8d29\u5f0fKTV",
+    "address": "\u84dd\u5929\u8def1\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/f9b89fa7495856cd7c4646c130dcfa4a19460.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u62c9\u83f2\u6d3e\u91cf\u8d29\u5f0f\u6b4c\u57ce",
+    "address": "\u79e3\u9675\u8857\u9053\u97e9\u5e9c\u8def8\u53f7\u9999\u5c71\u7f8e\u5885\u5546\u4e1a\u7528\u623f\u4e1c\u4fa7\u4e00\u3001\u4e8c\u5c42\u5c40\u90e8\u623f\u5c4b\u4e8c\u5c42202\uff08\u6c5f\u5b81\u5f00\u53d1\u533a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/de1763b41224c1601d81aae236f1a91d2474357.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "E\u91cf\u8d29Party",
+    "address": "\u5927\u6e05\u6cb3\u4e0e\u745e\u91d1\u8def\u4ea4\u53c9\u53e3\u5317100\u7c73",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u534a\u9192\u91cf\u8d29\u5f0fKTV",
+    "address": "\u897f\u5584\u6865\u5317\u8def60\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/01b86e255a9653998ec2f6357ef24e6376851.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "Plug",
+    "address": "\u80dc\u5229\u8def12\u53f72\u53f7\u697c401",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/ad53e7962ef490a8ba03b4463567c425833738.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e2d\u5c71\u4ff1\u4e50\u90e8KTV",
+    "address": "\u73e0\u6c5f\u8def2-4\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/ee366cac89269ed96943bdcfd2a93f41276007.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "MInG\u4f73\u835f\u884c\u653f\u5ba2\u5385KTV",
+    "address": "\u53cc\u5858\u8857\u9053\u5347\u5dde\u8def127\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/153928428f7a50d0cffd64f1c73b2f8a628364.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u91d1\u9f0eKTV",
+    "address": "\u6587\u5fb7\u4e1c\u8def\u4ea4\u901a\u94f6\u884c(\u5357\u4eac\u6c5f\u5317\u65b0\u533a\u5206\u884c)\u4e1c\u5317\u4fa7\u7ea630\u7c73",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/5b005a70ce2ac2031da3a68e36412d33243703.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9f0e\u5c1a\u4f1a\u6240KTV",
+    "address": "\u4e07\u5b89\u897f\u8def150\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/94eefe4bf96a752327942b86a263f8de198422.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u51ef\u60a6\u76db\u4e16",
+    "address": "\u73cd\u73e0\u5357\u8def91-6",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/244152a5da5a167cfa96615d7c3ffb14383824.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "M2",
+    "address": "\u6c5f\u4e1c\u5317\u8def216\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/eb237c1cce40f47752011fc0563c9f6b455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5635PARTY",
+    "address": "\u4e1c\u5c71\u8857\u9053\u5b8f\u8fd0\u5927\u90531890\u53f7\uff08\u5531\u6b4c\u4f18\u60e0I80-9421-9873\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/cd4820d0c5b2c6fcdec462da47030ac2475613.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u65b0\u4e50\u6e90KTV",
+    "address": "\u5b81\u829c\u5927\u90531206-03-7\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/0f01c07d2b96e9ab323a99f031678e74591195.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6708\u5347\u6c47KTV",
+    "address": "\u91d1\u7b94\u8def468\u53f7\u4e2d\u56fd\u5973\u4eba\u88573\u697c",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/e4b64391d562c124d9c3f750ec679a15291645.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "M\u00b7X&KTV",
+    "address": "\u65b0\u534e\u76db\u4f1a1\u53f7\uff08\u5546K\u54a8\u8be2180-942I-9873\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/eb237c1cce40f47752011fc0563c9f6b455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u540d\u95e8KTV",
+    "address": "\u4e2d\u5c71\u4e1c\u8def300\u53f72\u680b1506",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/cae84062a4748cffc3d18839c89f5081503786.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u97f3\u60a6KTV(\u5357\u4eac\u9ad8\u6df3\u8001\u8857\u5e97)",
+    "address": "\u6df3\u6eaa\u8857\u9053\u5c0f\u6cb3\u8def56\u53f74\u5e62405A/B\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/c40bc38c1f1c4b9e8d731e62decc049b162289.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u84dd\u5929KTV",
+    "address": "\u84dd\u5929\u8def\u767e\u5229\u534e\u5e9c-\u4e09\u671f\u897f\u5357\u4fa7\u7ea630\u7c73",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/34287a2fc6397bbc1cbfb218b15fc4c485367.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9ea6\u4e3d\u5c14\u5531\u5427",
+    "address": "\u73e0\u6c5f\u9547\u6587\u5fb7\u8def",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/402839342fe779d3b4a6744ca9e9aa1138459.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u91d1\u8272\u5e74\u4ee3KTV",
+    "address": "\u4e2d\u592e\u8def193\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/1d909bddbc70c66a0ead2f6d6cfd2103279365.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u551b\u7530PARTY",
+    "address": "\u7389\u5170\u8def99\u53f72\u5e6251127\u5ba4\uff08\u5531\u6b4c\u54a8\u8be2153-6603-22I0\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/78069d2e906abcd8b6681acb7fa7e520464278.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "M\u00b7X\u91cf\u8d29\u5f0fKTV",
+    "address": "\u864e\u8e1e\u5357\u8def100\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65b0\u5e72\u7ebf\u91cf\u8d29KTV",
+    "address": "\u516d\u5408\u5f00\u53d1\u533a\u56ed\u6797\u4e1c\u8def99\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/965ef30a2359321f5b4eada88334d7c1202313.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u82f1\u7687KTV",
+    "address": "\u6d66\u4e1c\u8def8\u53f7\uff08\u83dc\u573a\u5bf9\u9762\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/f0f206bf53d7097c7c550070db7123e41688590.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "NEW\u91cf\u8d29\u5f0fKTV",
+    "address": "\u6f58\u8425\u8def109\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9ea6\u4e50\u91cf\u8d29KTV",
+    "address": "\u56ed\u6797\u4e1c\u8def99\u53f7201\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/af879290b4bf57932de7ee2d0bde80f899300.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7b2c\u516d\u5927\u8857KTV",
+    "address": "\u6587\u4f53\u8def12\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u8f89KTV",
+    "address": "\u6cf0\u897f\u8def22\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/6f9536b8e49222b86fc59c040fb57820623039.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u57ce\u5e02\u5ba2\u5385",
+    "address": "\u5929\u5143\u4e1c\u8def388\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/bdfc331ab73f62a2dd8aac0c8132eea8472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7eaf\u97f3\u91cf\u8d29\u5f0fKTV",
+    "address": "\u6765\u51e4\u88572\u53f7\uff08\u559d\u9152\u54a8\u8be2I73-1227-8244\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/15720bd55f92bbe99cb714ad1e1e4e2a472254.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u72c2\u98d9\u91cf\u8d29\u5f0fKTV(\u9676\u5434\u5e97)",
+    "address": "\u6a2a\u6eaa\u8857\u9053\u9676\u5434\u793e\u533a\u897f\u575d\u8def\u95e8\u976216\u5e62106-1\u5ba4\u3001106-2\u5ba4",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/33bd67c0b9422edfdafcbbde090ac63c204309.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5609\u5e74\u534eKTV",
+    "address": "\u8305\u5c71\u8def\u4e0e\u6843\u56ed\u5317\u8def\u4ea4\u53c9\u53e3\u5317180\u7c73",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/9b6c6b579278737516283566f96ae14e243641.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7fe1\u7fe0PARTY\u00b7K",
+    "address": "\u6c34\u897f\u95e8\u5927\u8857\u4e0e\u864e\u8e1e\u5357\u8def\u4ea4\u53c9\u53e3\u897f\u531760\u7c731",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u8d30\u9646\u634cKTV",
+    "address": "\u845b\u5173\u8def196\u53f7\u5357\u5316\u5bbe\u9986\u95e8\u9762\u623f\u4e00\u53f7\u697c\u7b2c\u4e09\u5c42(\u4e00\u6574\u5c42)",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/c136474144089a183351fa33dec878c920883.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u4e50\u6c47\u00b7\u91cf\u8d29\u5f0fKTV",
+    "address": "\u6c5f\u5b81\u8857\u9053\u6885\u5e9c\u675199-1\u53f7",
+    "cover_image_url": "http://p0.meituan.net/poipicadd/1ab74e04f5099b7c9bb202a072cf4dff201954.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u51cc\u6668KTV",
+    "address": "\u5c0f\u6cb3\u8def56\u53f7\uff08\u559d\u9152\u4f18\u60e0167-8627-554I\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/4f4f4360f7f764ac49ee624c14217ca11303655.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u661f\u57cePARTYKTV",
+    "address": "\u73cd\u73e0\u5357\u8def93\u53f7101-1\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/38a307dbc0baf1dfd42c81039956f584474698.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5c71\u6b4c\u97f3\u4e50",
+    "address": "\u91d1\u5ddd\u95e8\u591610\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u98d9\u6b4c\u623fKTV",
+    "address": "\u4e2d\u5c71\u5927\u8857\u6b65\u884c\u8857178\u53f71-1\u5ba4\uff08\u5531\u6b4c\u54a8\u8be2I95-1440-8171\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u591c\u714c\u5609\u534eKTV",
+    "address": "\u5929\u5143\u4e1c\u8def118\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/749b522a53563f0b63750e83b0657ac1472966.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4f18\u5236\u5a31\u4e50(\u5b8f\u8302\u5927\u53a6\u5e97)",
+    "address": "\u677e\u98ce\u8def20\u53f7\u5b8f\u8302\u5927\u53a61306\uff08I67\u4f18\u60e0I25O*O63O\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ceea87ed0460c0ec31db17fd908d7c65488223.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u95f2\u5c31\u6765\u8336\u793ektv",
+    "address": "\u6bd5\u6d3c\u8def\u5468\u5bb6\u6d3c103\u53f7",
+    "cover_image_url": "http://p0.meituan.net/poipicadd/bfa8375995bfb0beb39848d56e237737208287.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5927\u7ea2\u5c81\u6708\u8336\u8f69KTV",
+    "address": "\u897f\u5382\u95e8\u8857194\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7fa4\u97f3\u4f1a",
+    "address": "\u9ed1\u9f99\u6c5f\u8def\u4e94\u5cb3\u56fd\u9645\u516c\u5bd3",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e50\u6f6e\u6c47\u9910\u996e\u5a31\u4e50",
+    "address": "\u5e90\u5c71\u8def158\u53f7\u5609\u4e1a\u56fd\u9645\u8d2d\u7269\u4e2d\u5fc35\u53f7\u697c\u53575F\uff08\u8fd1\u5965\u4f53\u5927\u8857\uff09",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u98de\u5929\u540d\u4ed5\u5546\u52a1\u4f1a\u6240KTV",
+    "address": "\u6e56\u5357\u8def18\u53f79\u5c42",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u79c1\u4eba\u5b9a\u52361\u53f7KTV(no.1\u5e97)",
+    "address": "\u5c71\u897f\u8def67\u53f72\u697c3\u697c",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u541b\u8c6aktv",
+    "address": "\u6587\u4f53\u8def12\u53f7(\u5357\u6e56\u65b0\u5929\u5730D\u5e62\u4e00\u5c42\u90e8\u5206\u4e8c\u5c42\u5168\u90e8)\uff08\u54a8\u8be2173-I227-8244\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ba40c4230d35efc9a1e3c6977900c5a0455772.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u82b1\u90fd\u4ff1\u4e50\u90e8(\u6c5f\u4e1c\u5317\u8def\u5e97)",
+    "address": "\u6c5f\u4e1c\u5317\u8def301\u53f75\u697c",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e7e\u5bab\u56fd\u9645ktv",
+    "address": "\u957f\u8679\u8def146\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6d41\u661f\u96e8(\u65ed\u4e1c\u8def\u5e97)",
+    "address": "\u65ed\u897f\u8def745\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/7ae9b00a6e25979dd9946ad1ea93deb8361474.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u96e8\u591c\u4e4b\u82b1",
+    "address": "\u5e73\u9876\u5c71\u8def650\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u516d\u6f6e\u6c47\u5546\u52a1\u4f1a\u6240",
+    "address": "\u5317\u4eac\u4e1c\u8def8\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5fa1\u6c5f\u5357",
+    "address": "\u5e86\u5174\u8def\u6c5f\u5b81\u533a\u5b9e\u9a8c\u5c0f\u5b66\u5206\u6821\u8c37\u91cc\u5e86\u5174\u8def\u5c0f\u5b66\u897f\u5357\u4fa7\u7ea670\u7c73",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u68a6\u4e4b\u58f0KTV(\u58a8\u9999\u8def\u5e97)",
+    "address": "\u58a8\u9999\u8def27\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "TZ Studio\u5f55\u97f3\u68da",
+    "address": "\u5357\u4eac\u62a5\u4e1a\u6587\u5316\u521b\u610f\u56edB505-1\u5ba4",
+    "cover_image_url": "http://p0.meituan.net/poipicadd/08166c81767b5ec70940859cf4d4c89a668333.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u660e\u8c6a\u5546\u52a1KTV(\u6587\u9756\u897f\u8def\u5e97)",
+    "address": "\u6587\u9756\u897f\u8def99\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7cbe\u821eKTV(\u8425\u82d1\u5317\u8def\u5e97)",
+    "address": "\u8fc8\u768b\u6865\u8857\u9053\u8425\u82d1\u5317\u8def1\u53f712\u5e621-3\u5ba4\u30015-10\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u91d1\u8272\u5e74\u534ektv",
+    "address": "\u6c5f\u4e1c\u4e2d\u8def359\u53f7\u56fd\u777f\u5927\u53a6\u4e00\u53f7\u697cB\u533a3\u697c",
+    "cover_image_url": "https://p1.meituan.net/merchantpic/0d939730680cc49f467e798126de0fc0371795.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6c38\u76f8\u968f",
+    "address": "\u65b0\u534e\u8def718\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u539a\u5babktv",
+    "address": "\u5927\u5382\u8857\u9053\u56ed\u897f\u8def9\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/99295dfb6d84f740ac0297dccea82452291581.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e5d\u96f6\u4e5d\u4e09\u6587\u5316\u4f20\u64ad\u6709\u9650\u516c\u53f8",
+    "address": "\u5e94\u5929\u5927\u8857780\u53f7",
+    "cover_image_url": "http://p0.meituan.net/apiback/a75febe88d3cfb18316df34e3f359111103359.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6676\u946b\u6c47\u91cf\u8d29\u5f0fKTV",
+    "address": "\u6c5f\u5b81\u9547\u957f\u5174\u5927\u8857667\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u73b2\u73d1\u5a31\u4e50\u5546\u52a1\u4f1a\u6240KTV(\u6765\u51e4\u8857\u5e97)",
+    "address": "\u6765\u51e4\u88572\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7f57\u66fc\u8fbe\u7cbe\u54c1\u91cf\u8d29KTV",
+    "address": "\u6cb3\u897f\u5927\u8857198\u53f7\u540c\u8fdb\u5927\u53a6",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65b0\u60a6\u9f99\u4f1a\u4ff1\u4e50\u90e8",
+    "address": "\u6c5f\u82cf\u8def138\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u679c\u5cadKTV(\u6c34\u897f\u95e8\u5916\u5927\u8857\u5e97)",
+    "address": "\u6c34\u897f\u95e8\u5916\u5927\u8857\u5357\u6e56\u8fb975\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u8272\u6e2f\u6e7eKTV",
+    "address": "\u897f\u57ce\u8def\u4e0e\u6960\u6eaa\u6c5f\u4e1c\u8857\u4ea4\u53c9\u53e3\u9644\u8fd1",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u540d\u90fd\u6c47\u4f1a\u6240(\u7ecf\u4e94\u8def\u5e97)",
+    "address": "\u7ecf\u4e94\u8def1-2\u53f7\u5f18\u9633\u5bb6\u5c45\u4e09\u697c",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65b0\u5965\u56fd\u9645",
+    "address": "\u56ed\u6797\u4e1c\u8def99\u53f73\u5c42",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e50\u9886",
+    "address": "\u5361\u5b50\u95e8\u5927\u885738\u53f7\u6708\u661f\u5bb6\u5c45F2\u5c42",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/9a2e56994c45d0fc9788ff2a4b5e2bcf410188.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7687\u6e2f\u4e3d\u97f3\u91cf\u8d29\u5f0fKTV",
+    "address": "\u6d66\u53e3\u5927\u905311\u53f7\u660e\u53d1\u65b0\u57ce\u4e2d\u5fc32\u680b3\u697c4\u5355\u5143",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e1c\u65b9\u9b45\u529b\u5a31\u4e50\u5546\u52a1\u4f1a\u6240KTV(\u5357\u4eac\u5e97)",
+    "address": "\u6d2a\u6b66\u8def26\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u8c6a\u9f99",
+    "address": "\u5e55\u5e9c\u4e1c\u8def\u6653\u5e84\u675156\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u7c73\u91cf\u8d29\u5f0fKTV",
+    "address": "\u6ee8\u6c5f\u5f00\u53d1\u533a\u5730\u79c0\u8def\u5546\u4e1a\u8857F2\u5e62\u4e8c\u697c\u5317\u8fb9",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/1a08c648da9860e6005e46282e70a3e981115.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5b8f\u90fdKTV",
+    "address": "\u516d\u7af9\u7ebf\u5411\u9633\u6865\u5f80\u897f\u8def\u5317\u7af9\u9547\u5ba2\u8fd0\u7ad9",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65e0\u9650\u65f6\u4ee3\u56fd\u9645\u5a31\u4e50\u4f1a\u6240",
+    "address": "\u592a\u5e73\u5357\u8def2\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5f00\u5fc3\u679cKtv",
+    "address": "\u5e94\u5929\u5927\u8857380\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u53f0\u5317\u5531K\u5546\u52a1\u4f1a\u6240KTV",
+    "address": "\u5170\u82b1\u96c5\u82d1\u4e1c\u5317\u95e8\u4e1c\u5357120\u7c73",
+    "cover_image_url": "http://p0.meituan.net/biztone/a4987d0becf760cbfc7f9ad38187b867197564.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7f18\u66fc\u56fd\u9645\u4f1a\u6240(\u5927\u6865\u5357\u8def\u5e97)",
+    "address": "\u5927\u6865\u5357\u8def42\u53f7401\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e2d\u56fd\u5300\u5a31\u4e50\u5546\u52a1\u4f1a\u6240KTV",
+    "address": "\u4e2d\u5c71\u5357\u8def252\u53f7\uff08\u7ecf\u7406 I88 53I8 O67O\uff09",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5bcc\u57ce\u56fd\u9645\u5a31\u4e50\u5546\u52a1\u4f1a\u6240KTV(\u66fc\u5ea6\u5e7f\u573a\u5e97)",
+    "address": "\u7891\u4ead\u5df7\u6768\u5c06\u519b\u5df79\u53f7\u66fc\u5ea6\u5e7f\u573a1\u5c42",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e50\u6b4cKTV\u7ec3\u6b4c\u623f",
+    "address": "\u8def47-1\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9f99\u51e4\u98de\u821e\u7ec3\u6b4c\u623f",
+    "address": "\u96c4\u98ce\u8def198\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/d11825483d8cb23a4a255b892dfea5ef350579.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6c5f\u82cf\u7701\u97f3\u97f5\u6587\u5316\u4ea7\u4e1a\u53d1\u5c55\u6709\u9650\u516c\u53f8(\u73e0\u6c5f\u8def\u5e97)",
+    "address": "\u73e0\u6c5f\u8def680\u53f7\u7384\u4e1c\u79d1\u6280\u56ed-1\u5c42\uff08\u516c\u4ea46\u300147\u300152\u300168\u300180\u300191\u73e0\u6c5f\u8def\u5c0f\u8425\u7ad9\u4e0b\u8f66\uff09",
+    "cover_image_url": "http://p0.meituan.net/poipicadd/15244dcb77d2c0f014a325cdd653ec1455556.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6c5f\u4e1c\u58f9\u53f7\u4f1a\u6240(\u4e1c\u5b9d\u8def\u5e97)",
+    "address": "\u4e1c\u5b9d\u8def8\u53f702\u5e62201\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u81f3\u5c0a\u56fd\u9645KTV",
+    "address": "\u96c6\u5e86\u8def198\u53f7\u6cfd\u5929\u5927\u9152\u5e973\u697c",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "KALI PARTY k\u91cf\u8d29KTV",
+    "address": "\u5efa\u5b81\u8def241\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/d80cf5fbe18c3dc07d646c4d7dedb25d186958.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5bcc\u90fd\u56fd\u9645\u516d\u53f7\u516c\u9986",
+    "address": "\u8fc8\u768b\u6865\u8857\u9053\u7535\u5efa\u8def\u5408\u73ed\u6751375\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u60a6\u4f1a\u6240",
+    "address": "\u5e7f\u5dde\u8def208\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u946b\u8302\u56fd\u9645\u5a31\u4e50\u4f1a\u6240(\u4e8c\u677f\u6865\u5e97)",
+    "address": "\u4e8c\u677f\u6865398\u53f7\uff08\u4e16\u8302\u6ee8\u6c5f\u5bf9\u9762\uff09",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9f0e\u8c6a\u5a31\u4e50KTV",
+    "address": "\u65b0\u6e56\u5927\u90539\u53f7\u82b1\u751f\u55107\u5e621\u5c42101-114\u53f7\u30012\u5c42105-114\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/1c08a60bfc92490d3e89913590076012263130.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u706b\u9f99KTV",
+    "address": "\u65b0\u9a6c\u8def175\u53f7\u6d66\u6b23\u5bb6\u56edG\u5e62-03\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/cd4820d0c5b2c6fcdec462da47030ac2475613.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u5149\u707f\u70c2ktv(\u6587\u7406\u8def\u5e97)",
+    "address": "\u6587\u7406\u8def\u4e1c\u65b9\u6587\u7406\u5b66\u9662\u6821\u95e8\u5bf9\u9762",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6c38\u5229\u7eafK",
+    "address": "\u73af\u7389\u8def\u7389\u6865\u5e02\u573a3\u671f",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5e7b\u4e50\u5a31\u4e50\u91cf\u8d29\u5f0fKTV",
+    "address": "\u7eac\u4e00\u8def94-97\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u65b0\u57cektv",
+    "address": "\u56ed\u897f\u8def498-2\u53f7\uff08\u559d\u9152\u4f18\u60e0167-1250-063O\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u84dd\u6cc9KTV",
+    "address": "\u51e4\u51f0\u897f\u8857237\u53f73\u697c",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u8273\u540eKTV(\u8c37\u91cc\u5e97)",
+    "address": "\u8c37\u91cc\u793e\u533a\u90bb\u91cc\u4e2d\u5fc3\u4e09\u5c42301\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4eca\u5929KTV",
+    "address": "\u9a6c\u53f0\u885770-6\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/76392d46dbd851e4fb5ff53cb671857a532985.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5fa1\u4e4b\u7687\u4f11\u95f2\u5a31\u4e50\u4e2d\u5fc3",
+    "address": "\u6816\u971e\u5927\u905328\u53f7\u91d1\u6e90\u767e\u8d27\u5e02\u573a3\u5c42",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5e1d\u7235ktv(\u56ed\u897f\u8def\u5e97)",
+    "address": "\u56ed\u897f\u8def9\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u96f6\u70b9\u4e50\u4e4b\u57ceKTV(\u73cd\u73e0\u5357\u8def\u5e97)",
+    "address": "\u73cd\u73e0\u5357\u8def2\u53f7\u660e\u53d1\u57ce\u5e02\u5e7f\u573a",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5929\u7c41\u4e4b\u97f3KTV",
+    "address": "\u661f\u6c49\u57ce\u897f\u5357\u95e8\u897f\u531780\u7c73",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u957f\u6c5f\u4e03\u53f7KTV(\u5927\u6865\u5317\u8def\u5e97)",
+    "address": "\u5927\u6865\u5317\u8def118\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9f13\u6d6a\u5c7fKTV",
+    "address": "\u6c5f\u6d66\u8857\u9053\u6587\u5fb7\u4e1c\u8def17\u53f7(\u8fd1\u4ea4\u901a\u94f6\u884c)",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9ea6\u6d6a\u91cf\u8d29KTV",
+    "address": "\u6768\u6751\u4e00\u8def248\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6b22\u79a7\u6c47KTV\u91cf\u8d29\u5f0f",
+    "address": "\u5b81\u829c\u5927\u90531206\u76db\u6c5f\u82b1\u82d13\u680b301\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5bcc\u90fd\u4f1a\u91cf\u8d29\u5f0f",
+    "address": "\u5929\u7984\u5927\u9053139\u53f7\u6c5f\u5c71\u661f\u6c49\u57ce37\u5e62102\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u65ed\u65e5KTV",
+    "address": "\u59dc\u5729\u8def160-9\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e07\u7d2b\u5343\u7ea2KTV(\u51e4\u51f0\u5357\u8def\u5e97)",
+    "address": "\u51e4\u51f0\u5357\u8def143\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/d3744c963e8ae0b86b0abc1de6fa8021276220.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5929\u4e4b\u58f0KTV",
+    "address": "\u9676\u5434\u793e\u533a\u77f3\u575d\u8def\u531732\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u65b0\u4e16\u7eaa\u56fd\u9645\u4ff1\u4e50\u90e8(\u9f99\u87e0\u8def\u5e97)",
+    "address": "\u9f99\u87e0\u8def133\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u59d0\u59b9KTV(\u82b1\u56ed\u8857\u5e97)",
+    "address": "\u82b1\u56ed\u885723-8\u53f7\u897f\u5357\u65b9\u5411100\u7c73",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u60c5\u672a\u4e86(\u6021\u56ed\u8857\u5e97)",
+    "address": "\u6587\u5fb7\u8def7\u53f7\u91d1\u6d66\u5047\u65e5\u767e\u8d27\u5ba4\u5185\u7cbe\u54c1\u6b65\u884c\u8857F1\u5c42",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u58f0\u6d6aKTV(\u5e86\u7f18\u4e1c\u8857\u5e97)",
+    "address": "\u91d1\u725b\u82b1\u82d1\u659c\u5bf9\u9762",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u70ed\u70b9KTV",
+    "address": "\u65ed\u897f\u8def715\u53f71-3\u5c42",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5c71\u6f58KTV",
+    "address": "\u65b0\u534e\u8def\u5c71\u6f58\u5927\u9152\u5e97\u5185",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u76db\u6d53\u4e61\u60c5KTV(\u5e86\u7f18\u5317\u8def\u5e97)",
+    "address": "\u8c37\u91cc\u793e\u533a\u5e86\u7f18\u5317\u8def4\u53f7\u697c",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9f99\u8fea\u6b4c\u5385",
+    "address": "\u6816\u971e\u5927\u9053\u5e03\u4e01\u9152\u5e97(\u6816\u971e\u5c71\u5e97)\u897f\u4fa7\u7ea6190\u7c73",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u91d1\u707f\u707fKTV(\u571f\u6865\u5e97)",
+    "address": "\u540c\u5fc3\u8857137\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u53c8\u4e00\u6751KTV",
+    "address": "\u7af9\u91d1\u8def\u7af9\u9547\u9547\u653f\u5e9c\u5357\u4fa7\u7ea630\u7c73",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5ba2\u623fKTV",
+    "address": "\u65f6\u4ee3\u5927\u9053\u5357\u4eac\u6caa\u6c5f\u5546\u8d38\u57ce",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5357\u5510\u56fd\u9645\u5a31\u4e50\u4f1a\u6240(\u6e05\u51c9\u95e8\u5927\u8857\u5e97)",
+    "address": "\u6e05\u51c9\u95e8\u5927\u885768\u53f7\u91d1\u4fe1\u82b1\u56ed15\u5e6276-4\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6b22\u5929\u559c\u5730(\u4e07\u5b89\u897f\u8def\u5e97)",
+    "address": "\u4e07\u5b89\u897f\u8def150\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u84dd\u8272\u6d77\u6d0bKTV(\u56ed\u897f\u8def\u5e97)",
+    "address": "\u56ed\u4e1c\u897f\u8def16\u300117\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/3c02fe83f294ce4b3a7a91f84bc1dedc286463.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u84dd\u6c34\u6cb3KTV",
+    "address": "\u5149\u534e\u8def114\u53f7-3\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/65c3d7adc31593698aa92380b1ae444f92040.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u96f6\u53f7\u5730\u6807(\u5efa\u5b81\u8def\u5e97)",
+    "address": "\u5efa\u5b81\u8def7\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7fe1\u7fe0PARTY\u00b7K",
+    "address": "\u864e\u8e1e\u5357\u8def100\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u8c6a\u90fd\u82f1\u7687\u56fd\u9645CLUB",
+    "address": "\u65b0\u534e\u8def558\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u67ab\u9e23\u5a31\u4e50\u603b\u6c47(\u56ed\u6797\u897f\u8def\u5e97)",
+    "address": "\u516d\u5408\u5f00\u53d1\u533a\u56ed\u6797\u897f\u8def6\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5357\u4eac\u65c5\u6e38\u804c\u4e1a\u5b66\u9662\u5f55\u97f3\u68da",
+    "address": "\u534e\u4e25\u5c971\u53f7\u667a\u6167\u8c37\u521b\u4e1a\u56ed",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/83fbfd2a4ef563c63e6c8f44ed883da21777530.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9b45\u529b\u56fd\u9645KTV",
+    "address": "\u79c0\u56ed\u8def228\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/63ec4ad90a384f940c45cbcf2551ccd91127397.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u5149\u4e4b\u591cKTV",
+    "address": "\u5317\u5cad\u8def25\u53f7\u745e\u5bcc\u5e7f\u573a3\u697c",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6c38\u5229\u76db\u4f1a",
+    "address": "\u65b0\u534e\u76db\u4f1a\u6c34\u7597\u4f11\u95f2\u4f1a\u6240133-15\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6c34\u6708\u8f69KTV",
+    "address": "\u5b98\u6eaa\u8def\u8fce\u85b0\u95e818\u53f7\uff08\u5531\u6b4c\u4f18\u60e0189-1446-288I\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/38a307dbc0baf1dfd42c81039956f584474698.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "520\u4f20\u5947KTV",
+    "address": "\u9547\u5317\u8def34\u53f7\u9644\u8fd1",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/87b6ae18f39f740a36706ae48897b88e487746.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7687\u5bb6\u6c38\u5229\u5a31\u4e50\u5546\u52a1\u4f1a\u6240KTV",
+    "address": "\u6dee\u6e90\u8857\u9a6c\u5bb6\u56ed108\u53f7101\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/26acf85298455be61ad85538008c183f143254.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u591c\u8272CLUB",
+    "address": "\u6df3\u6eaa\u8857\u9053\u51e4\u5c71\u897f\u8def60\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u9876\u56fd\u835fKTV(\u9ad8\u6df3\u5e97)",
+    "address": "\u5317\u5cad\u8def21\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5929\u6cd3\u56fd\u9645KTV",
+    "address": "\u5b9d\u5854\u8def23\u53f7\u5b9d\u57ce\u540d\u82d111\u5e62109-409",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u8f7bKTV(\u5357\u745e\u8def\u5e97)",
+    "address": "\u5357\u745e\u8def6\u53f7\u5b9c\u60a6\u91cc3\u697c3-15\uff08\u80af\u5fb7\u57fa\u697c\u4e0a\uff09",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/25e4b18ef49a817f499a4d7556c179fd23364.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u91d1\u9675\u4e4b\u58f0KTV",
+    "address": "\u6cb3\u897f\u5927\u8857230\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/eb237c1cce40f47752011fc0563c9f6b455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u767d\u91d1\u6c49\u7235KTV(\u4ed9\u6797\u6c7d\u914d\u57ce\u5e97)",
+    "address": "\u4ed9\u5c27\u8def\u4e0e\u667a\u8c37\u5927\u9053\u8f85\u8def\u4ea4\u53c9\u53e3\u897f100\u7c73",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u53e4\u5357\u90fd\u996d\u5e97KTV(\u5e7f\u5dde\u8def\u5e97)",
+    "address": "\u5e7f\u5dde\u8def208\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/3fc04b49d5eb132007a791672067d1c971445.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "1001 PARTY KTV(\u6e05\u6c34\u4ead\u897f\u8def\u5e97)",
+    "address": "\u6e05\u6c34\u4ead\u897f\u8def\u957f\u4ead\u88579\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/3f4dffc3f366e7a2a4883a9a5e8133c196090.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u73af\u74031\u53f7",
+    "address": "\u5c71\u897f\u8def1\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/8a45aba3d19d1a596dc570fe576e268385982.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u7d2b\u5fa1KTV",
+    "address": "\u5929\u5370\u5927\u9053745\u53f71\u5c423-1\uff08\u5546K\u54a8\u8be2173-3844-8I82\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u79e6\u00b7PARTY\u00b7K",
+    "address": "\u897f\u575b\u8def99\u53f7\u6c38\u5bff\u574a\u5546\u4e1a\u8857\u533a4\u680b101\u5ba4",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/86cd4c5f9d124fa4eb7caca5570538f2463795.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u54c7\u6765\u54d2",
+    "address": "\u671d\u5929\u5bab\u8857\u9053\u53cb\u8c0a\u5e7f\u573a",
+    "cover_image_url": "http://p0.meituan.net/poipicadd/e7a7b083bea8aff4dff97af793e4eb46107623.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u60a6\u4f1aKTV",
+    "address": "\u53cc\u95f8\u8857\u9053(\u767d\u9f99\u6c5f\u897f\u8857)",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/d048d1e1b987cb7387a54ee910a1cfed875441.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7c73\u79c0KTV(\u7eff\u6ea2\u56fd\u9645\u5e7f\u573a\u5e97)",
+    "address": "\u9ec4\u5c71\u8def2\u53f7\uff08\u54a8\u8be2I89-1446-2881\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/3dc2f96d9f9859696e37da2a15f31750875441.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7984\u53e3\u58f9\u53f7KTV",
+    "address": "\u84dd\u5929\u8def4\u5e62-2-3\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/3f1d8467d799f68b331eb0b0b9113fb7140181.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6c34\u79c0\u82d1ktv",
+    "address": "\u4f73\u6e56\u897f\u8def11\u53f7\uff08\u5531\u6b4c\u7279\u60e0I58-9587-5874\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/6dcd9845d1d50899075d4b5d5ddfa4ff274591.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u51e4\u51f0\u53f0KTV",
+    "address": "\u6e56\u5357\u8def47\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/eb237c1cce40f47752011fc0563c9f6b455772.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u8fb0\u60a6KTV",
+    "address": "\u67f3\u6d66\u7ebf\u4e0e\u6d66\u4e1c\u8def\u4ea4\u53c9\u53e3\u531780\u7c73",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "DCF\u91cf\u8d29\u5f0fKTV",
+    "address": "\u5b9d\u5854\u5317\u8def11\u53f7\uff08\u559d\u9152\u7279\u60e0I33-2780-4560\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/a20bf517d3254ddcc07c30ec4cbfe3bf1067425.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7fe0\u5c4f\u5a31\u4e50\u57ce\u91cf\u8d29\u5f0fKTV",
+    "address": "\u5c06\u519b\u5927\u90539\u53f7",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/f14e2fb0b6386da832e04f33bb3e0562250665.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u91d1\u4e50\u6c47KTV",
+    "address": "\u5e55\u5e9c\u897f\u8def29\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6ee1\u5929\u661f",
+    "address": "\u7ea2\u661f\u7f8e\u51ef\u9f99\u5168\u7403\u5bb6\u5c45\u751f\u6d3b\u5e7f\u573a\u6c5f\u5317\u65b0\u533a\u5546\u573a2\u697c1",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7199\u60a6\u6c47KTV",
+    "address": "\u82b1\u83b2\u8def\u6d77\u79d1\u65b0\u5bd3\u00b7\u4e07\u798f\u56ed",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/4e6c837c369e3c97bd51c3ea45498c4a266006.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "G\u2022PARTY KTV",
+    "address": "\u6c5f\u4e1c\u4e2d\u8def289\u53f7\uff08\u5531\u6b4c\u54a8\u8be2181-5I64-2494\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/3dc2f96d9f9859696e37da2a15f31750875441.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5927\u5730\u541b\u60a6KTV",
+    "address": "\u4e94\u8001\u6751\u8857\u9053\u5ef6\u9f84\u5df7111\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u4e1c\u65b9\u6c47\u91cf\u8d29KTV",
+    "address": "\u745e\u91d1\u8def25-2\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u8c6a\u8fc8\u4e4b\u661fKTV",
+    "address": "\u6816\u971e\u5927\u90538\u53f7\u9ad8\u529b\u96c6\u56e2\u5927\u53a6",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u79c1\u4eba\u5b9a\u52361\u53f7",
+    "address": "\u897f\u5c97\u8857\u9053\u5e7f\u5fd7\u8def24\u53f7",
+    "cover_image_url": "http://p0.meituan.net/poipicadd/f2deab161c30d9a8e53c9f1e63662274146292.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u541b\u60a6KTV",
+    "address": "\u71d5\u5b50\u77f6\u8857\u9053\u5e55\u5e9c\u4e1c\u8def29\u53f71",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u66d9\u5149KTV",
+    "address": "\u9f99\u87e0\u8def107\uff08\u5531\u6b4c\u7279\u60e0187-6I63-4536\uff09",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/31561b46029150404a7e6d62ee7091eb274824.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u6b22\u4e50\u8feaKTV",
+    "address": "\u8f6f\u4ef6\u5927\u905312\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/78faa5651572ad9639b8996e51bf0039243168.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5929\u8679\u5a31\u4e50",
+    "address": "\u4fe1\u9675\u8def269\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/32252f67497003eda1a2496c87b14772253550.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u82b1\u90fd",
+    "address": "\u6dee\u6d77\u8def88\u53f7\u82cf\u5b81\u751f\u6d3b\u5e7f\u573a",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/e99c8a9c3f3e463529a5bb5b30ef4443309038.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "MGM music club(\u5e90\u5c71\u8def\u5e97)",
+    "address": "\u5e90\u5c71\u8def288\u53f74\u5e62",
+    "cover_image_url": "http://p1.meituan.net/poipicadd/802ff16d488c2c9343a6213089390e90113456.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "MPLUSPARTY",
+    "address": "\u6c38\u9633\u8857\u9053",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/c54c7d8d5d901a84504ae535c55914e7352037.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5b8f\u6cb3KTV",
+    "address": "\u8001\u864e\u6865\u793e\u533a\u6d77\u79d1\u65b0\u5bd3\u4e07\u798f\u56ed\u6cbf\u8857\u5546\u94fa21\u680b301\u5ba4",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/8ac743b1d700007acb4864e82d432d7d201561.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5357\u4eac\u6052\u5927\u5a31\u4e50\u4e2d\u5fc3",
+    "address": "\u6c38\u6e56\u8def188\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e07\u7d2b\u5343\u7ea2KTV",
+    "address": "\u4e01\u5899\u8def\u4e0e\u660e\u57ce\u5927\u9053\u4ea4\u53c9\u53e3\u5357100\u7c73",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "NS",
+    "address": "\u8f66\u7ad9\u4e1c\u5df712\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/3dc2f96d9f9859696e37da2a15f31750875441.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u8ff7\u57ceKTV(\u4e01\u5bb6\u5c71\u8def\u5e97)",
+    "address": "\u59dc\u6865\u8def\u4e01\u5bb6\u5c7138\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/0361dc6ae9d9964cdbc05769751df5b0383258.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u661f\u714cktv",
+    "address": "\u6c34\u897f\u95e8\u5916\u5927\u8857\u5357\u6e56\u8fb975\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ba40c4230d35efc9a1e3c6977900c5a0455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5929\u661f\u56fd\u9645KTV",
+    "address": "\u6c38\u9633\u8857\u9053\u8363\u660c\u82b1\u56ed26\u5e62",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/145b8f78ecb4819ecb829354271de098298409.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6b22\u6b4c\u6c47ktv",
+    "address": "\u4e2d\u5c71\u5357\u8def234\u53f7\u8d1f\u4e00\u5c42-1",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/eb237c1cce40f47752011fc0563c9f6b455772.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6b27\u98ceKTV",
+    "address": "\u592a\u9f99\u8def\u4e09\u5143\u7960D9\u8857\u533a2\u53f7\u697c\u65c1",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4f18\u8fea\u4e50\u5531\u6b4c\u4f1a\u6240",
+    "address": "\u71d5\u5b50\u77f6\u8857\u9053",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u9047\u89c1\u9152\u6b21\u65b9",
+    "address": "\u91d1\u7b94\u8def468\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/62052822d89adae86a23cf6458f87ad1240805.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9e3f\u76db\u8feaKTV",
+    "address": "\u6c5f\u4e1c\u5317\u8def301\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/dc500810daae8f83ef830beb22d1fc4a279012.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u9f99\u5448KTV(\u7eff\u5730\u82b1\u8302\u5e97)",
+    "address": "\u6816\u51e4\u8def18\u53f7\u7eff\u5730\u82b1\u83022\u5e623\u697c",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5a01\u5c3c\u65afKTV",
+    "address": "\u592a\u5e73\u5317\u8def80\u53f7",
+    "cover_image_url": "http://p0.meituan.net/poipicadd/ab44b1c21146b761c52257c862dbed15453172.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u901a\u6d4epark",
+    "address": "\u9f99\u87e0\u4e2d\u8def458\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/ab5b20cf3b3bfcf6774585e999c76751276897.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u7687\u5c0aCLUB",
+    "address": "\u5c71\u897f\u8def1\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u6d77\u5a9a\u4f1a\u6240KTV",
+    "address": "\u4e09\u724c\u697c\u5927\u8857119-1\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/ffbd7f46dcbc13969ba53229682a6e00398042.png%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u91d1\u9ea6KTV(\u6df3\u5174\u8def\u5e97)",
+    "address": "\u6df3\u6eaa\u8857\u9053\u6df3\u5174\u8def29\u53f7(\u9ad8\u6df3\u8001\u8857\u4e1c\u9996)\uff08\u5531\u6b4c\u54a8\u8be2198-4838-51I8\uff09",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/7036b23dbe776157502861bdcc1213d6475613.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u8bfa\u4e01\u5c71KTV",
+    "address": "\u767d\u9f99\u6c5f\u4e1c\u88579\u53f7\u7efc\u5408\u4f53B7\u680b1\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/eb237c1cce40f47752011fc0563c9f6b455772.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u548c\u58f0\u5a31\u4e50\u4f1a\u6240",
+    "address": "\u5c0f\u6cb3\u8def56\u53f77\u5e62702\u3001703\u53f7",
+    "cover_image_url": "http://p1.meituan.net/dpmerchantpic/1d779937fb35f2075dbe4fa7342c56a4306910.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u4e16\u7eaaKTV",
+    "address": "\u79e3\u9675\u8857\u9053\u4e5d\u7af9\u8def2\u53f7",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/3d3d24331e905d1198510b9c6a53dcc0472633.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5609\u5e74\u6c47KTV",
+    "address": "\u5317\u5729\u8def242\u53f7",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "JW\u91cf\u8d29\u5f0fKTV",
+    "address": "\u5e55\u5e9c\u4e1c\u8def\u8f85\u8def\u4e0e\u8fc8\u768b\u6865\u652f\u8def\u4ea4\u53c9\u53e3\u531780",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/d048d1e1b987cb7387a54ee910a1cfed875441.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u7231\u6b4c\u97f3\u4e50\u9986KTV",
+    "address": "\u91d1\u5730\u81ea\u5728\u57ce5\u671f5-1018",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u65e7\u65f6\u5149\u5ba4\u5185KTV",
+    "address": "\u9f99\u7720\u5927\u9053618\u53f7\u534f\u4f17\u96c5\u5c4510\u5e621001",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/3dc2f96d9f9859696e37da2a15f31750875441.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u51cc\u6668KTV",
+    "address": "\u9f99\u87e0\u8def88\u53f7",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/d81a4564e81126b147c17e69789a197432431.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u91cf\u8d29\u5f0fKTV",
+    "address": "\u6587\u4f53\u897f\u8def22\u53f72\u697c",
+    "cover_image_url": "https://p0.meituan.net/dpmerchantpic/39f16aa229ebf0dace6690ced67f211198085.jpg%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u58f9\u53f7PARTY K",
+    "address": "\u65f6\u4ee3\u56fd\u9645\u5e7f\u573a\u4e09\u697c\u767e\u5473\u8bb0\u9694\u58c1",
+    "cover_image_url": "https://p1.meituan.net/dpmerchantpic/78faa5651572ad9639b8996e51bf0039243168.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  },
+  {
+    "shop_name": "\u5e94\u5929\u5a31\u4e50(\u82b1\u6837\u5e74\u00b7\u82b1\u751f\u5510\u5e97)",
+    "address": "\u65b0\u6e56\u5927\u90539\u53f7\u82b1\u6837\u5e74\u00b7\u82b1\u751f\u55101F\u5c42",
+    "cover_image_url": "https://p0.meituan.net/travelcube/9c5106033b56dba49786cdd8a898cd36161956.png%40300w_225h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20"
+  },
+  {
+    "shop_name": "\u5357\u4eac\u5e02\u00b7\u767e\u70c1\u6b4c\u57ceKTV",
+    "address": "\u90bb\u91cc\u5927\u9053\u4e0e\u6cc9\u4e95\u8def\u4ea4\u53c9\u53e3\u897f\u5317120\u7c73",
+    "cover_image_url": "http://p0.meituan.net/dpmerchantpic/8a45aba3d19d1a596dc570fe576e268385982.jpg%40300w_1e_1l%7Cwatermark%3D0.webp"
+  }
+]

@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: xueyou
+
+  datasource:
+
+    url: jdbc:mysql://localhost:3306/xueyou?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: root
+    password: jtf0116.
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+logging:
+  level:
+    com.jtf: debug
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.jtf.xueyou.entity
+  configuration:
+    map-underscore-to-camel-case: true
+
+#pagehelper:
+#  helperDialect: mysql
+#  reasonable: true
+#  supportMethodsArguments: true
+#  params: count=countSql
+#  pageSizeZero: true
+

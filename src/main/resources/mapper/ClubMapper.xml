@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jtf.xueyou.mapper.ClubMapper">
+
+    <insert id="addClub" useGeneratedKeys="true" keyProperty="id">
+        insert into club (uuid, name, image, rating, location, longitude, latitude, status, create_time, update_time)
+            VALUE (#{uuid}, #{name}, #{image}, #{rating}, #{location}, #{longitude}, #{latitude}, #{status}, #{createTime}, #{updateTime})
+    </insert>
+    <select id="getClubPage" resultType="com.jtf.xueyou.entity.Club">
+        select * from club
+    </select>
+    <select id="count" resultType="java.lang.Integer">
+        select count(*) from club
+    </select>
+    <select id="getClubPageByTypeId" resultType="com.jtf.xueyou.entity.Club">
+        select club.id, uuid, name, image, rating, location, longitude, latitude, club.status, club.create_time, club.update_time from club, club_type
+        where club.id = club_type.club_id and club_type.type_id = #{typeId}
+    </select>
+</mapper>
